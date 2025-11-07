@@ -1,0 +1,30 @@
+Replace Part 4 TVS_5V_1CH_BID_SOD_123FL in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with TVS_5V_1CH_BID_SOD_123FL from shared_lib.IntLib
+Replace Part BOOT Sw_PUSH_4.5x4.5x5.0xmm in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Sw_PUSH_4.5x4.5x5.0xmm from shared_lib.IntLib
+Replace Part C8 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part C9 Cap_10uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_10uF_0603_10V from shared_lib.IntLib
+Replace Part C10 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part C11 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part C12 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part C13 Cap_10uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_10uF_0603_10V from shared_lib.IntLib
+Replace Part C14 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part C15 Cap_10uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_10uF_0603_10V from shared_lib.IntLib
+Replace Part C16 Cap_0.1uF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Cap_0.1uF_0603_50V from shared_lib.IntLib
+Replace Part D4 LED_0805_RED in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with LED_0805_RED from shared_lib.IntLib
+Replace Part D5 LED_0805_Green in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with LED_0805_Green from shared_lib.IntLib
+Replace Part j4 CON_USB_TYPEC_16P in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with CON_USB_TYPEC_16P from shared_lib.IntLib
+Update Managed Component Q2 From CMP-2000-04931-2[MMBT3904-7-F] To CMP-2000-04931-2[MMBT3904-7-F] in MCU.SchDoc
+Update Managed Component Q3 From CMP-2000-04931-2[MMBT3904-7-F] To CMP-2000-04931-2[MMBT3904-7-F] in MCU.SchDoc
+Replace Part R12 Res_10k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_10k_0603_1/10W from shared_lib.IntLib
+Replace Part R13 Res_10k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_10k_0603_1/10W from shared_lib.IntLib
+Replace Part R14 Res_1k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_1k_0603_1/10W from shared_lib.IntLib
+Replace Part R15 Res_10k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_10k_0603_1/10W from shared_lib.IntLib
+Replace Part R16 Res_10k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_10k_0603_1/10W from shared_lib.IntLib
+Replace Part R17 Res_1k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_1k_0603_1/10W from shared_lib.IntLib
+Replace Part R18 Res_330R_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_330R_0603_1/10W from shared_lib.IntLib
+Replace Part R19 Res_330R_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res_330R_0603_1/10W from shared_lib.IntLib
+Replace Part R20 Res 5K1 in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res 5K1 from CNCLib.IntLib
+Replace Part R21 Res 5K1 in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Res 5K1 from CNCLib.IntLib
+Replace Part RESET1 Sw_PUSH_4.5x4.5x5.0xmm in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with Sw_PUSH_4.5x4.5x5.0xmm from shared_lib.IntLib
+Replace Part U4 IC_SGL_USB2UART-BRIDGE_20QFN in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with IC_SGL_USB2UART-BRIDGE_20QFN from shared_lib.IntLib
+Replace Part U5 TVS_5.25V_2CH_SOT_23_6 in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with TVS_5.25V_2CH_SOT_23_6 from shared_lib.IntLib
+Replace Part U? CMP-194065-000003-1 in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\MCU.SchDoc with CMP-194065-000003-1 from CNCLib.IntLib
