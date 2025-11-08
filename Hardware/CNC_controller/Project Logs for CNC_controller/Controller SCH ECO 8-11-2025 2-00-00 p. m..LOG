@@ -1,0 +1,9 @@
+Change Component Parameter Comment in C1 Old= New=CAP CER 100nF 50V X7R 0603
+Change Value of Parameter ComponentLink1URL in Part C1 Old=https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603F104Z500CT_C83060.html New=https://www.lcsc.com/product-detail/C5137636.html
+Change Component Parameter Description in C1 Old=50V 100nF Y5V -20%~+80% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS New=50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS
+Change Component Parameter Library Reference in C1 Old=Cap_0.1uF_0603_50V New=Cap_100nF_0603_50V
+Change Value of Parameter Manufacturer in Part C1 Old=Walsin Tech Corp New=FOJAN
+Change Value of Parameter Manufacturer Part Number in Part C1 Old=0603F104Z500CT New=FCC0603B104K500CT
+Change Value of Parameter Supplier Part Number 1 in Part C1 Old=C83060 New=C5137636
+Change Value of Parameter Value in Part C1 Old=0.1uF New=100nF
+Replace Part C1 Cap_100nF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\Controller.SchDoc with Cap_100nF_0603_50V from CNCLib.IntLib
