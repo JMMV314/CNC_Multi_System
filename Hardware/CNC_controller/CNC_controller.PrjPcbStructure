@@ -7,5 +7,3 @@ Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=DriverY|SchDesignator=D
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=DriverZ|SchDesignator=DriverZ|FileName=Driver.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MicroSD|SchDesignator=MicroSD|FileName=MicroSD_Card.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MicroSD_Card.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Spindle|SchDesignator=Spindle|FileName=Spindle.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Spindle.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=endings.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Sensors.SchDoc|SheetNumber=8
