@@ -1,0 +1,15 @@
+Replace Part C21 Cap_100nF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_100nF_0603_50V from CNCLib.IntLib
+Replace Part C22 Cap_5.1pF in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_5.1pF from CNCLib.IntLib
+Replace Part C23 Cap_22uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_22uF_0603_10V from CNCLib.IntLib
+Replace Part C24 Cap_10uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_10uF_0603_10V from CNCLib.IntLib
+Replace Part C25 Cap_22uF_0603_10V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_22uF_0603_10V from CNCLib.IntLib
+Replace Part C26 Cap_10uF_0805_25V_ in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_10uF_0805_25V_ from CNCLib.IntLib
+Replace Part C27 Cap_470nF_0603_50V in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Cap_470nF_0603_50V from CNCLib.IntLib
+Replace Part J11 Con_Power_Jack_2.1mm_3pins in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Con_Power_Jack_2.1mm_3pins from CNCLib.IntLib
+Replace Part L1 Inductor_3.3uH in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Inductor_3.3uH from CNCLib.IntLib
+Replace Part R41 Res_10k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Res_10k_0603_1/10W from CNCLib.IntLib
+Replace Part R42 Res_365k_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Res_365k_0603_1/10W from CNCLib.IntLib
+Replace Part R43 Res 105k in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Res 105k from CNCLib.IntLib
+Replace Part R44 Res_49k9_0603_1/10W in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with Res_49k9_0603_1/10W from CNCLib.IntLib
+Replace Part U10 LDO_3V3_1A_FIXED in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with LDO_3V3_1A_FIXED from CNCLib.IntLib
+Replace Part U11 DCDC_SW_BUCK_5A_SOIC8 in C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\POWER.SchDoc with DCDC_SW_BUCK_5A_SOIC8 from CNCLib.IntLib

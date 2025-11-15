@@ -1,0 +1,691 @@
+Added Component: Designator=C1_Da(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dx(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dy(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dz(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=D15(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C965813.html?s_z=n_XINGLIGHT%2520XL-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012UOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_Da(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-2012SURC_C965812.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_Dx(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-2012SURC_C965812.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_Dy(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-2012SURC_C965812.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_Dz(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-2012SURC_C965812.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_Da(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C965813.html?s_z=n_XINGLIGHT%2520XL-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012UOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_Dx(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C965813.html?s_z=n_XINGLIGHT%2520XL-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012UOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_Dy(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C965813.html?s_z=n_XINGLIGHT%2520XL-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012UOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_Dz(0805_LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C965813.html?s_z=n_XINGLIGHT%2520XL-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XL-2012UOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C965813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_Da(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_Dx(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_Dy(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_Dz(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8_Da(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8_Dx(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8_Dy(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8_Dz(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9_Da(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9_Dx(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9_Dy(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9_Dz(H_2x1_TH_100mil)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12_Da(JST_B4B-XH-A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C144395.html?s_z=n_JST%2520b4b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C144395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12_Dx(JST_B4B-XH-A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C144395.html?s_z=n_JST%2520b4b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C144395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12_Dy(JST_B4B-XH-A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C144395.html?s_z=n_JST%2520b4b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C144395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12_Dz(JST_B4B-XH-A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C144395.html?s_z=n_JST%2520b4b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C144395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13_Da(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13_Dx(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13_Dy(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13_Dz(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14_Da(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14_Dx(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14_Dy(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14_Dz(SOT_23_3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C82045.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C82045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R45_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R45_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R45_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R45_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R46_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R46_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R46_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R46_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R47_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R47_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R47_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R47_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R48_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R48_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R48_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Added Component: Designator=R48_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F1910TS_C3000718.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F1910TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3000718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "191R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2A4988 Module
+Add Component: Footprint Not Found 2A4988 Module
+Add Component: Footprint Not Found 2A4988 Module
+Add Component: Footprint Not Found 2A4988 Module
+Added Pin To Net: NetName=VMOTOR_Da Pin=C1_Da-1
+Added Pin To Net: NetName=GND Pin=C1_Da-2
+Added Pin To Net: NetName=VMOTOR_Dx Pin=C1_Dx-1
+Added Pin To Net: NetName=GND Pin=C1_Dx-2
+Added Pin To Net: NetName=VMOTOR_Dy Pin=C1_Dy-1
+Added Pin To Net: NetName=GND Pin=C1_Dy-2
+Added Pin To Net: NetName=VMOTOR_Dz Pin=C1_Dz-1
+Added Pin To Net: NetName=GND Pin=C1_Dz-2
+Added Pin To Net: NetName=Net3_3 Pin=D15-1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD16_Da_1 Pin=D16_Da-1
+Added Pin To Net: NetName=NetD16_Da_2 Pin=D16_Da-2
+Added Pin To Net: NetName=NetD16_Dx_1 Pin=D16_Dx-1
+Added Pin To Net: NetName=NetD16_Dx_2 Pin=D16_Dx-2
+Added Pin To Net: NetName=NetD16_Dy_1 Pin=D16_Dy-1
+Added Pin To Net: NetName=NetD16_Dy_2 Pin=D16_Dy-2
+Added Pin To Net: NetName=NetD16_Dz_1 Pin=D16_Dz-1
+Added Pin To Net: NetName=NetD16_Dz_2 Pin=D16_Dz-2
+Added Pin To Net: NetName=NetD17_Da_1 Pin=D17_Da-1
+Added Pin To Net: NetName=NetD17_Da_2 Pin=D17_Da-2
+Added Pin To Net: NetName=NetD17_Dx_1 Pin=D17_Dx-1
+Added Pin To Net: NetName=NetD17_Dx_2 Pin=D17_Dx-2
+Added Pin To Net: NetName=NetD17_Dy_1 Pin=D17_Dy-1
+Added Pin To Net: NetName=NetD17_Dy_2 Pin=D17_Dy-2
+Added Pin To Net: NetName=NetD17_Dz_1 Pin=D17_Dz-1
+Added Pin To Net: NetName=NetD17_Dz_2 Pin=D17_Dz-2
+Added Pin To Net: NetName=+5 Pin=J7_Da-1
+Added Pin To Net: NetName=M1x_Da Pin=J7_Da-2
+Added Pin To Net: NetName=+5 Pin=J7_Dx-1
+Added Pin To Net: NetName=M1x_Dx Pin=J7_Dx-2
+Added Pin To Net: NetName=+5 Pin=J7_Dy-1
+Added Pin To Net: NetName=M1x_Dy Pin=J7_Dy-2
+Added Pin To Net: NetName=+5 Pin=J7_Dz-1
+Added Pin To Net: NetName=M1x_Dz Pin=J7_Dz-2
+Added Pin To Net: NetName=+5 Pin=J8_Da-1
+Added Pin To Net: NetName=M2x_Da Pin=J8_Da-2
+Added Pin To Net: NetName=+5 Pin=J8_Dx-1
+Added Pin To Net: NetName=M2x_Dx Pin=J8_Dx-2
+Added Pin To Net: NetName=+5 Pin=J8_Dy-1
+Added Pin To Net: NetName=M2x_Dy Pin=J8_Dy-2
+Added Pin To Net: NetName=+5 Pin=J8_Dz-1
+Added Pin To Net: NetName=M2x_Dz Pin=J8_Dz-2
+Added Pin To Net: NetName=+5 Pin=J9_Da-1
+Added Pin To Net: NetName=M3x_Da Pin=J9_Da-2
+Added Pin To Net: NetName=+5 Pin=J9_Dx-1
+Added Pin To Net: NetName=M3x_Dx Pin=J9_Dx-2
+Added Pin To Net: NetName=+5 Pin=J9_Dy-1
+Added Pin To Net: NetName=M3x_Dy Pin=J9_Dy-2
+Added Pin To Net: NetName=+5 Pin=J9_Dz-1
+Added Pin To Net: NetName=M3x_Dz Pin=J9_Dz-2
+Added Pin To Net: NetName=NetJ12_Da_1 Pin=J12_Da-1
+Added Pin To Net: NetName=NetJ12_Da_2 Pin=J12_Da-2
+Added Pin To Net: NetName=NetJ12_Da_3 Pin=J12_Da-3
+Added Pin To Net: NetName=NetJ12_Da_4 Pin=J12_Da-4
+Added Pin To Net: NetName=NetJ12_Dx_1 Pin=J12_Dx-1
+Added Pin To Net: NetName=NetJ12_Dx_2 Pin=J12_Dx-2
+Added Pin To Net: NetName=NetJ12_Dx_3 Pin=J12_Dx-3
+Added Pin To Net: NetName=NetJ12_Dx_4 Pin=J12_Dx-4
+Added Pin To Net: NetName=NetJ12_Dy_1 Pin=J12_Dy-1
+Added Pin To Net: NetName=NetJ12_Dy_2 Pin=J12_Dy-2
+Added Pin To Net: NetName=NetJ12_Dy_3 Pin=J12_Dy-3
+Added Pin To Net: NetName=NetJ12_Dy_4 Pin=J12_Dy-4
+Added Pin To Net: NetName=NetJ12_Dz_1 Pin=J12_Dz-1
+Added Pin To Net: NetName=NetJ12_Dz_2 Pin=J12_Dz-2
+Added Pin To Net: NetName=NetJ12_Dz_3 Pin=J12_Dz-3
+Added Pin To Net: NetName=NetJ12_Dz_4 Pin=J12_Dz-4
+Added Pin To Net: NetName=GPIO_Da Pin=Q13_Da-1
+Added Pin To Net: NetName=NetD17_Da_1 Pin=Q13_Da-2
+Added Pin To Net: NetName=NetQ13_Da_3 Pin=Q13_Da-3
+Added Pin To Net: NetName=GPIO_Dx Pin=Q13_Dx-1
+Added Pin To Net: NetName=NetD17_Dx_1 Pin=Q13_Dx-2
+Added Pin To Net: NetName=NetQ13_Dx_3 Pin=Q13_Dx-3
+Added Pin To Net: NetName=GPIO_Dy Pin=Q13_Dy-1
+Added Pin To Net: NetName=NetD17_Dy_1 Pin=Q13_Dy-2
+Added Pin To Net: NetName=NetQ13_Dy_3 Pin=Q13_Dy-3
+Added Pin To Net: NetName=GPIO_Dz Pin=Q13_Dz-1
+Added Pin To Net: NetName=NetD17_Dz_1 Pin=Q13_Dz-2
+Added Pin To Net: NetName=NetQ13_Dz_3 Pin=Q13_Dz-3
+Added Pin To Net: NetName=GPIO_Da Pin=Q14_Da-1
+Added Pin To Net: NetName=NetD16_Da_1 Pin=Q14_Da-2
+Added Pin To Net: NetName=NetQ14_Da_3 Pin=Q14_Da-3
+Added Pin To Net: NetName=GPIO_Dx Pin=Q14_Dx-1
+Added Pin To Net: NetName=NetD16_Dx_1 Pin=Q14_Dx-2
+Added Pin To Net: NetName=NetQ14_Dx_3 Pin=Q14_Dx-3
+Added Pin To Net: NetName=GPIO_Dy Pin=Q14_Dy-1
+Added Pin To Net: NetName=NetD16_Dy_1 Pin=Q14_Dy-2
+Added Pin To Net: NetName=NetQ14_Dy_3 Pin=Q14_Dy-3
+Added Pin To Net: NetName=GPIO_Dz Pin=Q14_Dz-1
+Added Pin To Net: NetName=NetD16_Dz_1 Pin=Q14_Dz-2
+Added Pin To Net: NetName=NetQ14_Dz_3 Pin=Q14_Dz-3
+Added Pin To Net: NetName=NetQ13_Da_3 Pin=R45_Da-1
+Added Pin To Net: NetName=+5 Pin=R45_Da-2
+Added Pin To Net: NetName=NetQ13_Dx_3 Pin=R45_Dx-1
+Added Pin To Net: NetName=+5 Pin=R45_Dx-2
+Added Pin To Net: NetName=NetQ13_Dy_3 Pin=R45_Dy-1
+Added Pin To Net: NetName=+5 Pin=R45_Dy-2
+Added Pin To Net: NetName=NetQ13_Dz_3 Pin=R45_Dz-1
+Added Pin To Net: NetName=+5 Pin=R45_Dz-2
+Added Pin To Net: NetName=NetQ14_Da_3 Pin=R46_Da-1
+Added Pin To Net: NetName=+5 Pin=R46_Da-2
+Added Pin To Net: NetName=NetQ14_Dx_3 Pin=R46_Dx-1
+Added Pin To Net: NetName=+5 Pin=R46_Dx-2
+Added Pin To Net: NetName=NetQ14_Dy_3 Pin=R46_Dy-1
+Added Pin To Net: NetName=+5 Pin=R46_Dy-2
+Added Pin To Net: NetName=NetQ14_Dz_3 Pin=R46_Dz-1
+Added Pin To Net: NetName=+5 Pin=R46_Dz-2
+Added Pin To Net: NetName=GND Pin=R47_Da-1
+Added Pin To Net: NetName=NetD17_Da_2 Pin=R47_Da-2
+Added Pin To Net: NetName=GND Pin=R47_Dx-1
+Added Pin To Net: NetName=NetD17_Dx_2 Pin=R47_Dx-2
+Added Pin To Net: NetName=GND Pin=R47_Dy-1
+Added Pin To Net: NetName=NetD17_Dy_2 Pin=R47_Dy-2
+Added Pin To Net: NetName=GND Pin=R47_Dz-1
+Added Pin To Net: NetName=NetD17_Dz_2 Pin=R47_Dz-2
+Added Pin To Net: NetName=GND Pin=R48_Da-1
+Added Pin To Net: NetName=NetD16_Da_2 Pin=R48_Da-2
+Added Pin To Net: NetName=GND Pin=R48_Dx-1
+Added Pin To Net: NetName=NetD16_Dx_2 Pin=R48_Dx-2
+Added Pin To Net: NetName=GND Pin=R48_Dy-1
+Added Pin To Net: NetName=NetD16_Dy_2 Pin=R48_Dy-2
+Added Pin To Net: NetName=GND Pin=R48_Dz-1
+Added Pin To Net: NetName=NetD16_Dz_2 Pin=R48_Dz-2
+Add Pin To Net: Unknown Pin: Pin U12_Da-1
+Add Pin To Net: Unknown Pin: Pin U12_Da-2
+Add Pin To Net: Unknown Pin: Pin U12_Da-3
+Add Pin To Net: Unknown Pin: Pin U12_Da-4
+Add Pin To Net: Unknown Pin: Pin U12_Da-5
+Add Pin To Net: Unknown Pin: Pin U12_Da-6
+Add Pin To Net: Unknown Pin: Pin U12_Da-7
+Add Pin To Net: Unknown Pin: Pin U12_Da-8
+Add Pin To Net: Unknown Pin: Pin U12_Da-9
+Add Pin To Net: Unknown Pin: Pin U12_Da-10
+Add Pin To Net: Unknown Pin: Pin U12_Da-11
+Add Pin To Net: Unknown Pin: Pin U12_Da-12
+Add Pin To Net: Unknown Pin: Pin U12_Da-13
+Add Pin To Net: Unknown Pin: Pin U12_Da-14
+Add Pin To Net: Unknown Pin: Pin U12_Da-15
+Add Pin To Net: Unknown Pin: Pin U12_Da-16
+Add Pin To Net: Unknown Pin: Pin U12_Dx-1
+Add Pin To Net: Unknown Pin: Pin U12_Dx-2
+Add Pin To Net: Unknown Pin: Pin U12_Dx-3
+Add Pin To Net: Unknown Pin: Pin U12_Dx-4
+Add Pin To Net: Unknown Pin: Pin U12_Dx-5
+Add Pin To Net: Unknown Pin: Pin U12_Dx-6
+Add Pin To Net: Unknown Pin: Pin U12_Dx-7
+Add Pin To Net: Unknown Pin: Pin U12_Dx-8
+Add Pin To Net: Unknown Pin: Pin U12_Dx-9
+Add Pin To Net: Unknown Pin: Pin U12_Dx-10
+Add Pin To Net: Unknown Pin: Pin U12_Dx-11
+Add Pin To Net: Unknown Pin: Pin U12_Dx-12
+Add Pin To Net: Unknown Pin: Pin U12_Dx-13
+Add Pin To Net: Unknown Pin: Pin U12_Dx-14
+Add Pin To Net: Unknown Pin: Pin U12_Dx-15
+Add Pin To Net: Unknown Pin: Pin U12_Dx-16
+Add Pin To Net: Unknown Pin: Pin U12_Dy-1
+Add Pin To Net: Unknown Pin: Pin U12_Dy-2
+Add Pin To Net: Unknown Pin: Pin U12_Dy-3
+Add Pin To Net: Unknown Pin: Pin U12_Dy-4
+Add Pin To Net: Unknown Pin: Pin U12_Dy-5
+Add Pin To Net: Unknown Pin: Pin U12_Dy-6
+Add Pin To Net: Unknown Pin: Pin U12_Dy-7
+Add Pin To Net: Unknown Pin: Pin U12_Dy-8
+Add Pin To Net: Unknown Pin: Pin U12_Dy-9
+Add Pin To Net: Unknown Pin: Pin U12_Dy-10
+Add Pin To Net: Unknown Pin: Pin U12_Dy-11
+Add Pin To Net: Unknown Pin: Pin U12_Dy-12
+Add Pin To Net: Unknown Pin: Pin U12_Dy-13
+Add Pin To Net: Unknown Pin: Pin U12_Dy-14
+Add Pin To Net: Unknown Pin: Pin U12_Dy-15
+Add Pin To Net: Unknown Pin: Pin U12_Dy-16
+Add Pin To Net: Unknown Pin: Pin U12_Dz-1
+Add Pin To Net: Unknown Pin: Pin U12_Dz-2
+Add Pin To Net: Unknown Pin: Pin U12_Dz-3
+Add Pin To Net: Unknown Pin: Pin U12_Dz-4
+Add Pin To Net: Unknown Pin: Pin U12_Dz-5
+Add Pin To Net: Unknown Pin: Pin U12_Dz-6
+Add Pin To Net: Unknown Pin: Pin U12_Dz-7
+Add Pin To Net: Unknown Pin: Pin U12_Dz-8
+Add Pin To Net: Unknown Pin: Pin U12_Dz-9
+Add Pin To Net: Unknown Pin: Pin U12_Dz-10
+Add Pin To Net: Unknown Pin: Pin U12_Dz-11
+Add Pin To Net: Unknown Pin: Pin U12_Dz-12
+Add Pin To Net: Unknown Pin: Pin U12_Dz-13
+Add Pin To Net: Unknown Pin: Pin U12_Dz-14
+Add Pin To Net: Unknown Pin: Pin U12_Dz-15
+Add Pin To Net: Unknown Pin: Pin U12_Dz-16
+Added Member To Class: ClassName=Da Member=Component C1_Da (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dx Member=Component C1_Dx (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dy Member=Component C1_Dy (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dz Member=Component C1_Dz (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Spindle Member=Component D15 2.3V
+Added Member To Class: ClassName=Da Member=Component D16_Da (D16) 2V
+Added Member To Class: ClassName=Dx Member=Component D16_Dx (D16) 2V
+Added Member To Class: ClassName=Dy Member=Component D16_Dy (D16) 2V
+Added Member To Class: ClassName=Dz Member=Component D16_Dz (D16) 2V
+Added Member To Class: ClassName=Da Member=Component D17_Da (D17) 2.3V
+Added Member To Class: ClassName=Dx Member=Component D17_Dx (D17) 2.3V
+Added Member To Class: ClassName=Dy Member=Component D17_Dy (D17) 2.3V
+Added Member To Class: ClassName=Dz Member=Component D17_Dz (D17) 2.3V
+Added Member To Class: ClassName=Da Member=Component J7_Da (J7) 2x1
+Added Member To Class: ClassName=Dx Member=Component J7_Dx (J7) 2x1
+Added Member To Class: ClassName=Dy Member=Component J7_Dy (J7) 2x1
+Added Member To Class: ClassName=Dz Member=Component J7_Dz (J7) 2x1
+Added Member To Class: ClassName=Da Member=Component J8_Da (J8) 2x1
+Added Member To Class: ClassName=Dx Member=Component J8_Dx (J8) 2x1
+Added Member To Class: ClassName=Dy Member=Component J8_Dy (J8) 2x1
+Added Member To Class: ClassName=Dz Member=Component J8_Dz (J8) 2x1
+Added Member To Class: ClassName=Da Member=Component J9_Da (J9) 2x1
+Added Member To Class: ClassName=Dx Member=Component J9_Dx (J9) 2x1
+Added Member To Class: ClassName=Dy Member=Component J9_Dy (J9) 2x1
+Added Member To Class: ClassName=Dz Member=Component J9_Dz (J9) 2x1
+Added Member To Class: ClassName=Da Member=Component J12_Da (J12) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dx Member=Component J12_Dx (J12) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dy Member=Component J12_Dy (J12) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dz Member=Component J12_Dz (J12) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Da Member=Component Q13_Da (Q13) N CH
+Added Member To Class: ClassName=Dx Member=Component Q13_Dx (Q13) N CH
+Added Member To Class: ClassName=Dy Member=Component Q13_Dy (Q13) N CH
+Added Member To Class: ClassName=Dz Member=Component Q13_Dz (Q13) N CH
+Added Member To Class: ClassName=Da Member=Component Q14_Da (Q14) N CH
+Added Member To Class: ClassName=Dx Member=Component Q14_Dx (Q14) N CH
+Added Member To Class: ClassName=Dy Member=Component Q14_Dy (Q14) N CH
+Added Member To Class: ClassName=Dz Member=Component Q14_Dz (Q14) N CH
+Added Member To Class: ClassName=Da Member=Component R45_Da (R45) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R45_Dx (R45) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R45_Dy (R45) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R45_Dz (R45) 0R 1/10W
+Added Member To Class: ClassName=Da Member=Component R46_Da (R46) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R46_Dx (R46) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R46_Dy (R46) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R46_Dz (R46) 0R 1/10W
+Added Member To Class: ClassName=Da Member=Component R47_Da (R47) 191R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R47_Dx (R47) 191R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R47_Dy (R47) 191R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R47_Dz (R47) 191R 1/10W
+Added Member To Class: ClassName=Da Member=Component R48_Da (R48) 191R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R48_Dx (R48) 191R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R48_Dy (R48) 191R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R48_Dz (R48) 191R 1/10W
+Add Class Member: Failed to add class member : Component U12_Da (U12) A4988 Driver Module
+Add Class Member: Failed to add class member : Component U12_Dx (U12) A4988 Driver Module
+Add Class Member: Failed to add class member : Component U12_Dy (U12) A4988 Driver Module
+Add Class Member: Failed to add class member : Component U12_Dz (U12) A4988 Driver Module

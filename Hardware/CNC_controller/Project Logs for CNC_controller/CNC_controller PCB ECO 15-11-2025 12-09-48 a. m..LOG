@@ -1,0 +1,48 @@
+Added Component: Designator=C1_Da(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dx(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dy(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Dz(CAP_MZR_F80_NIP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C962164.html?s_z=n_EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMZR500ARA101MF80G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C962164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VMOTOR_Da Pin=C1_Da-1
+Added Pin To Net: NetName=GND Pin=C1_Da-2
+Added Pin To Net: NetName=VMOTOR_Dx Pin=C1_Dx-1
+Added Pin To Net: NetName=GND Pin=C1_Dx-2
+Added Pin To Net: NetName=VMOTOR_Dy Pin=C1_Dy-1
+Added Pin To Net: NetName=GND Pin=C1_Dy-2
+Added Pin To Net: NetName=VMOTOR_Dz Pin=C1_Dz-1
+Added Pin To Net: NetName=GND Pin=C1_Dz-2
+Added Member To Class: ClassName=Da Member=Component C1_Da (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dx Member=Component C1_Dx (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dy Member=Component C1_Dy (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dz Member=Component C1_Dz (C1) CAP ALUM 100uF ±20% 50V SMD
