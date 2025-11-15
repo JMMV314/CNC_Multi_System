@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetD16_DriverX_1 Pin=D16_DriverX-1
+Added Pin To Net: NetName=NetD16_DriverX_2 Pin=D16_DriverX-2
+Added Pin To Net: NetName=GPIO_DriverX Pin=Q14_DriverX-1
+Added Pin To Net: NetName=NetD16_DriverX_1 Pin=Q14_DriverX-2
+Added Pin To Net: NetName=NetQ14_DriverX_3 Pin=Q14_DriverX-3
+Added Pin To Net: NetName=NetQ14_DriverX_3 Pin=R46_DriverX-1
+Added Pin To Net: NetName=+5 Pin=R46_DriverX-2
+Added Pin To Net: NetName=GND Pin=R48_DriverX-1
+Added Pin To Net: NetName=NetD16_DriverX_2 Pin=R48_DriverX-2
+Added Member To Class: ClassName=DriverX Member=Component D16_DriverX (D16) 2V
+Added Member To Class: ClassName=DriverX Member=Component Q14_DriverX (Q14) N CH
+Added Member To Class: ClassName=DriverX Member=Component R46_DriverX (R46) 0R 1/10W
+Added Member To Class: ClassName=DriverX Member=Component R48_DriverX (R48) 191R 1/10W
