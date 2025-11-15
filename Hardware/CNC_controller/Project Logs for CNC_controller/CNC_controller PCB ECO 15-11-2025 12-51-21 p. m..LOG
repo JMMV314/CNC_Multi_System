@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=D_N Pin=U13-4
+Removed Pin From Net: NetName=D_N Pin=U13-5
+Removed Pin From Net: NetName=D_N Pin=U14-4
+Removed Pin From Net: NetName=D_N Pin=U14-6
+Added Pin To Net: NetName=GND_MCU Pin=D19-1
+Added Pin To Net: NetName=GND_MCU Pin=D19-2
+Added Pin To Net: NetName=GND_MCU Pin=R56-1
+Added Pin To Net: NetName=GND_MCU Pin=U13-19
+Change Net Name : Old Net Name=D_N New Net Name=VBUS
+Added Pin To Net: NetName=D_N Pin=U13-5
+Added Pin To Net: NetName=D_N Pin=U14-6
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=U13-4
+Added Pin To Net: NetName=D_P Pin=U14-4
+Added Net: Name=D_P
+Added Rule: Name=Schematic Supply Nets_2

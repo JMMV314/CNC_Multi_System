@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND_MCU Pin=D19-1
+Removed Pin From Net: NetName=GND_MCU Pin=D19-2
+Removed Pin From Net: NetName=GND_MCU Pin=R56-1
+Removed Pin From Net: NetName=GND_MCU Pin=U13-19
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_1 Pin=R56-1
+Added Net: Name=NetD19_1
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=U13-19
+Added Net: Name=NetD19_2
