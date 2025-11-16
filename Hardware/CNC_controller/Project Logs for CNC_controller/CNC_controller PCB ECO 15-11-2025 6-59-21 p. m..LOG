@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=+5 Pin=J7_Da-1
+Removed Pin From Net: NetName=M1x_Da Pin=J7_Da-2
+Removed Pin From Net: NetName=+5 Pin=J7_Dx-1
+Removed Pin From Net: NetName=M1x_Dx Pin=J7_Dx-2
+Removed Pin From Net: NetName=+5 Pin=J7_Dy-1
+Removed Pin From Net: NetName=M1x_Dy Pin=J7_Dy-2
+Removed Pin From Net: NetName=+5 Pin=J7_Dz-1
+Removed Pin From Net: NetName=M1x_Dz Pin=J7_Dz-2
+Removed Pin From Net: NetName=+5 Pin=J8_Da-1
+Removed Pin From Net: NetName=M2x_Da Pin=J8_Da-2
+Removed Pin From Net: NetName=+5 Pin=J8_Dx-1
+Removed Pin From Net: NetName=M2x_Dx Pin=J8_Dx-2
+Removed Pin From Net: NetName=+5 Pin=J8_Dy-1
+Removed Pin From Net: NetName=M2x_Dy Pin=J8_Dy-2
+Removed Pin From Net: NetName=+5 Pin=J8_Dz-1
+Removed Pin From Net: NetName=M2x_Dz Pin=J8_Dz-2
+Removed Pin From Net: NetName=+5 Pin=J9_Da-1
+Removed Pin From Net: NetName=M3x_Da Pin=J9_Da-2
+Removed Pin From Net: NetName=+5 Pin=J9_Dx-1
+Removed Pin From Net: NetName=M3x_Dx Pin=J9_Dx-2
+Removed Pin From Net: NetName=+5 Pin=J9_Dy-1
+Removed Pin From Net: NetName=M3x_Dy Pin=J9_Dy-2
+Removed Pin From Net: NetName=+5 Pin=J9_Dz-1
+Removed Pin From Net: NetName=M3x_Dz Pin=J9_Dz-2
+Removed Member From Class: ClassName=Da Member=J7_Da
+Removed Member From Class: ClassName=Dx Member=J7_Dx
+Removed Member From Class: ClassName=Dy Member=J7_Dy
+Removed Member From Class: ClassName=Dz Member=J7_Dz
+Removed Member From Class: ClassName=Da Member=J8_Da
+Removed Member From Class: ClassName=Dx Member=J8_Dx
+Removed Member From Class: ClassName=Dy Member=J8_Dy
+Removed Member From Class: ClassName=Dz Member=J8_Dz
+Removed Member From Class: ClassName=Da Member=J9_Da
+Removed Member From Class: ClassName=Dx Member=J9_Dx
+Removed Member From Class: ClassName=Dy Member=J9_Dy
+Removed Member From Class: ClassName=Dz Member=J9_Dz
+Added Component: Designator=U1_Da(A4988 Module)
+Added Component: Designator=U1_Dx(A4988 Module)
+Added Component: Designator=U1_Dy(A4988 Module)
+Added Component: Designator=U1_Dz(A4988 Module)
+Added Pin To Net: NetName=+5 Pin=U1_Da-17
+Added Pin To Net: NetName=M1x_Da Pin=U1_Da-18
+Added Pin To Net: NetName=+5 Pin=U1_Da-19
+Added Pin To Net: NetName=M2x_Da Pin=U1_Da-20
+Added Pin To Net: NetName=+5 Pin=U1_Da-21
+Added Pin To Net: NetName=M3x_Da Pin=U1_Da-22
+Added Pin To Net: NetName=+5 Pin=U1_Dx-17
+Added Pin To Net: NetName=M1x_Dx Pin=U1_Dx-18
+Added Pin To Net: NetName=+5 Pin=U1_Dx-19
+Added Pin To Net: NetName=M2x_Dx Pin=U1_Dx-20
+Added Pin To Net: NetName=+5 Pin=U1_Dx-21
+Added Pin To Net: NetName=M3x_Dx Pin=U1_Dx-22
+Added Pin To Net: NetName=+5 Pin=U1_Dy-17
+Added Pin To Net: NetName=M1x_Dy Pin=U1_Dy-18
+Added Pin To Net: NetName=+5 Pin=U1_Dy-19
+Added Pin To Net: NetName=M2x_Dy Pin=U1_Dy-20
+Added Pin To Net: NetName=+5 Pin=U1_Dy-21
+Added Pin To Net: NetName=M3x_Dy Pin=U1_Dy-22
+Added Pin To Net: NetName=+5 Pin=U1_Dz-17
+Added Pin To Net: NetName=M1x_Dz Pin=U1_Dz-18
+Added Pin To Net: NetName=+5 Pin=U1_Dz-19
+Added Pin To Net: NetName=M2x_Dz Pin=U1_Dz-20
+Added Pin To Net: NetName=+5 Pin=U1_Dz-21
+Added Pin To Net: NetName=M3x_Dz Pin=U1_Dz-22
+Added Member To Class: ClassName=Da Member=Component U1_Da (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dx Member=Component U1_Dx (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component U1_Dy (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component U1_Dz (U1A) A4988 Driver Module

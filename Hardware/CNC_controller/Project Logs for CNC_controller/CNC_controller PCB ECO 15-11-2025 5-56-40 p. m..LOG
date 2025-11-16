@@ -1,0 +1,69 @@
+Added Component: Designator=U12_Da(A4988 Module)
+Added Component: Designator=U12_Dy(A4988 Module)
+Added Component: Designator=U12_Dz(A4988 Module)
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-1
+Added Pin To Net: NetName=M1x_Da Pin=U12_Da-2
+Added Pin To Net: NetName=M2x_Da Pin=U12_Da-3
+Added Pin To Net: NetName=M3x_Da Pin=U12_Da-4
+Added Pin To Net: NetName=NetU12_Da_5 Pin=U12_Da-5
+Added Pin To Net: NetName=NetU12_Da_5 Pin=U12_Da-6
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-7
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-8
+Added Pin To Net: NetName=VMOTOR_Da Pin=U12_Da-9
+Added Pin To Net: NetName=GND Pin=U12_Da-10
+Added Pin To Net: NetName=NetJ12_Da_1 Pin=U12_Da-11
+Added Pin To Net: NetName=NetJ12_Da_2 Pin=U12_Da-12
+Added Pin To Net: NetName=NetJ12_Da_3 Pin=U12_Da-13
+Added Pin To Net: NetName=NetJ12_Da_4 Pin=U12_Da-14
+Added Pin To Net: NetName=+5 Pin=U12_Da-15
+Added Pin To Net: NetName=GND Pin=U12_Da-16
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-1
+Added Pin To Net: NetName=M1x_Dy Pin=U12_Dy-2
+Added Pin To Net: NetName=M2x_Dy Pin=U12_Dy-3
+Added Pin To Net: NetName=M3x_Dy Pin=U12_Dy-4
+Added Pin To Net: NetName=NetU12_Dy_5 Pin=U12_Dy-5
+Added Pin To Net: NetName=NetU12_Dy_5 Pin=U12_Dy-6
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-7
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-8
+Added Pin To Net: NetName=VMOTOR_Dy Pin=U12_Dy-9
+Added Pin To Net: NetName=GND Pin=U12_Dy-10
+Added Pin To Net: NetName=NetJ12_Dy_1 Pin=U12_Dy-11
+Added Pin To Net: NetName=NetJ12_Dy_2 Pin=U12_Dy-12
+Added Pin To Net: NetName=NetJ12_Dy_3 Pin=U12_Dy-13
+Added Pin To Net: NetName=NetJ12_Dy_4 Pin=U12_Dy-14
+Added Pin To Net: NetName=+5 Pin=U12_Dy-15
+Added Pin To Net: NetName=GND Pin=U12_Dy-16
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-1
+Added Pin To Net: NetName=M1x_Dz Pin=U12_Dz-2
+Added Pin To Net: NetName=M2x_Dz Pin=U12_Dz-3
+Added Pin To Net: NetName=M3x_Dz Pin=U12_Dz-4
+Added Pin To Net: NetName=NetU12_Dz_5 Pin=U12_Dz-5
+Added Pin To Net: NetName=NetU12_Dz_5 Pin=U12_Dz-6
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-7
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-8
+Added Pin To Net: NetName=VMOTOR_Dz Pin=U12_Dz-9
+Added Pin To Net: NetName=GND Pin=U12_Dz-10
+Added Pin To Net: NetName=NetJ12_Dz_1 Pin=U12_Dz-11
+Added Pin To Net: NetName=NetJ12_Dz_2 Pin=U12_Dz-12
+Added Pin To Net: NetName=NetJ12_Dz_3 Pin=U12_Dz-13
+Added Pin To Net: NetName=NetJ12_Dz_4 Pin=U12_Dz-14
+Added Pin To Net: NetName=+5 Pin=U12_Dz-15
+Added Pin To Net: NetName=GND Pin=U12_Dz-16
+Change Class Name : Old Net Name=Room Definition3 New Net Name=Dz
+Change Class Name : Old Net Name=Room Definition4 New Net Name=Da
+Added Member To Class: ClassName=Dy Member=Component C1_Dy (C1) CAP ALUM 100uF ±20% 50V SMD
+Added Member To Class: ClassName=Dy Member=Component D16_Dy (D16) 2V
+Added Member To Class: ClassName=Dy Member=Component D17_Dy (D17) 2.3V
+Added Member To Class: ClassName=Dy Member=Component J7_Dy (J7) 2x1
+Added Member To Class: ClassName=Dy Member=Component J8_Dy (J8) 2x1
+Added Member To Class: ClassName=Dy Member=Component J9_Dy (J9) 2x1
+Added Member To Class: ClassName=Dy Member=Component J12_Dy (J12) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dy Member=Component Q13_Dy (Q13) N CH
+Added Member To Class: ClassName=Dy Member=Component Q14_Dy (Q14) N CH
+Added Member To Class: ClassName=Dy Member=Component R45_Dy (R45) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R46_Dy (R46) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R47_Dy (R47) 191R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R48_Dy (R48) 191R 1/10W
+Added Member To Class: ClassName=Da Member=Component U12_Da (U12) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component U12_Dy (U12) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component U12_Dz (U12) A4988 Driver Module
