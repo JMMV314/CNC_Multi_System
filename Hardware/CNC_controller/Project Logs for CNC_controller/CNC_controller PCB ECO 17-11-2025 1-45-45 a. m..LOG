@@ -1,0 +1,30 @@
+Change Net Name : Old Net Name=NetDr1_Dx_1 New Net Name=EN_Dx
+Change Net Name : Old Net Name=NetDr1_Dy_1 New Net Name=EN_Dy
+Change Net Name : Old Net Name=NetDr1_Dz_1 New Net Name=EN_Dz
+Added Pin To Net: NetName=NetDr1_Dx_7 Pin=Dr1_Dx-7
+Added Pin To Net: NetName=NetDr1_Dx_7 Pin=MD2-36
+Added Net: Name=NetDr1_Dx_7
+Added Pin To Net: NetName=NetDr1_Dx_8 Pin=Dr1_Dx-8
+Added Pin To Net: NetName=NetDr1_Dx_8 Pin=MD2-33
+Added Net: Name=NetDr1_Dx_8
+Added Pin To Net: NetName=NetDr1_Dy_7 Pin=Dr1_Dy-7
+Added Pin To Net: NetName=NetDr1_Dy_7 Pin=MD2-27
+Added Net: Name=NetDr1_Dy_7
+Added Pin To Net: NetName=NetDr1_Dy_8 Pin=Dr1_Dy-8
+Added Pin To Net: NetName=NetDr1_Dy_8 Pin=MD2-26
+Added Net: Name=NetDr1_Dy_8
+Added Pin To Net: NetName=NetDr1_Dz_7 Pin=Dr1_Dz-7
+Added Pin To Net: NetName=NetDr1_Dz_7 Pin=MD2-12
+Added Net: Name=NetDr1_Dz_7
+Added Pin To Net: NetName=NetDr1_Dz_8 Pin=Dr1_Dz-8
+Added Pin To Net: NetName=NetDr1_Dz_8 Pin=MD2-11
+Added Net: Name=NetDr1_Dz_8
+Added Pin To Net: NetName=NetMD2_10 Pin=MD2-10
+Added Pin To Net: NetName=NetMD2_10 Pin=R1_Dz-1
+Added Net: Name=NetMD2_10
+Added Pin To Net: NetName=NetMD2_16 Pin=MD2-16
+Added Pin To Net: NetName=NetMD2_16 Pin=R1_Dy-1
+Added Net: Name=NetMD2_16
+Added Pin To Net: NetName=NetMD2_28 Pin=MD2-28
+Added Pin To Net: NetName=NetMD2_28 Pin=R1_Dx-1
+Added Net: Name=NetMD2_28
