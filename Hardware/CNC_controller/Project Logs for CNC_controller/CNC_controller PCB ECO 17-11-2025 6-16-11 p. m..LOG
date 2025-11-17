@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND_MCU Pin=J1-3
+Added Pin To Net: NetName=GND_MCU Pin=J2-3
+Added Pin To Net: NetName=GND_MCU Pin=J3-3
+Added Pin To Net: NetName=GND_MCU Pin=J4-3
+Added Pin To Net: NetName=GND_MCU Pin=J5-3
+Added Pin To Net: NetName=GND_MCU Pin=J6-3
+Change Class Name : Old Net Name=Room Definition2 New Net Name=Dy
+Change Class Name : Old Net Name=Room Definition3 New Net Name=Dz

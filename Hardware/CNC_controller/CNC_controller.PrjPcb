@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AFBOTIPH
 
 [Document14]
-DocumentPath=Driver.Harness
+DocumentPath=Sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
