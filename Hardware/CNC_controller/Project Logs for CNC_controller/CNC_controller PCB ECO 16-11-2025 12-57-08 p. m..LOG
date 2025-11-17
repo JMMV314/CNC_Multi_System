@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR1_Da_1 Pin=R2_Da-2
+Removed Pin From Net: NetName=NetR1_Dx_1 Pin=R2_Dx-2
+Removed Pin From Net: NetName=NetR1_Dy_1 Pin=R2_Dy-2
+Removed Pin From Net: NetName=NetR1_Dz_1 Pin=R2_Dz-2
+Added Pin To Net: NetName=EN_Da Pin=R2_Da-2
+Added Pin To Net: NetName=EN_Dx Pin=R2_Dx-2
+Added Pin To Net: NetName=EN_Dy Pin=R2_Dy-2
+Added Pin To Net: NetName=EN_Dz Pin=R2_Dz-2
+Added Member To Class: ClassName=Dz Member=Component R2_Dz (R2) 0R 1/10W

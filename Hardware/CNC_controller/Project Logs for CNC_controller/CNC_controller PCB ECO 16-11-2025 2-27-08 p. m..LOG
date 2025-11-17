@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VMOTOR Pin=C1_Da-1
+Added Pin To Net: NetName=VMOTOR Pin=C1_Dx-1
+Added Pin To Net: NetName=VMOTOR Pin=C1_Dy-1
+Added Pin To Net: NetName=VMOTOR Pin=C1_Dz-1
+Added Pin To Net: NetName=VMOTOR Pin=Dr1_Da-9
+Added Pin To Net: NetName=VMOTOR Pin=Dr1_Dx-9
+Added Pin To Net: NetName=VMOTOR Pin=Dr1_Dy-9
+Added Pin To Net: NetName=VMOTOR Pin=Dr1_Dz-9
+Change Net Name : Old Net Name=VMOTOR New Net Name=VMOTOR_Da
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VMOTOR_Da Pin=C1_Da-1
+Removed Pin From Net: NetName=GND Pin=C1_Da-2
+Removed Pin From Net: NetName=VMOTOR_Da Pin=Dr1_Da-9
+Removed Pin From Net: NetName=GND Pin=Dr1_Da-10
+Removed Pin From Net: NetName=+5 Pin=Dr1_Da-15
+Removed Pin From Net: NetName=GND_MCU Pin=Dr1_Da-16
+Removed Pin From Net: NetName=+5 Pin=Dr1_Da-17
+Removed Pin From Net: NetName=+5 Pin=Dr1_Da-19
+Removed Pin From Net: NetName=+5 Pin=Dr1_Da-21
+Removed Pin From Net: NetName=GND_MCU Pin=R2_Da-1
+Removed Pin From Net: NetName=+5 Pin=R45_Da-2
+Removed Pin From Net: NetName=+5 Pin=R46_Da-2
+Removed Pin From Net: NetName=GND_MCU Pin=R47_Da-1
+Removed Pin From Net: NetName=GND_MCU Pin=R48_Da-1
+Removed Member From Class: ClassName=Driver Member=Da
+Change Net Name : Old Net Name=VMOTOR_Da New Net Name=VMOTOR_Dx
+Added Member To Class: ClassName=MCU Member=Component R54 1k 1/10W
+Added Rule: Name=Schematic Supply Nets_5

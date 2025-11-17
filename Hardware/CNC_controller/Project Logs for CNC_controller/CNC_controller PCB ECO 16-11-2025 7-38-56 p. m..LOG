@@ -1,0 +1,42 @@
+Change Net Name : Old Net Name=EN_Dx New Net Name=NetDr1_Dx_1
+Change Net Name : Old Net Name=EN_Dy New Net Name=NetDr1_Dy_1
+Change Net Name : Old Net Name=EN_Dz New Net Name=NetDr1_Dz_1
+Change Net Name : Old Net Name=NetDr1_Dx_7 New Net Name=STEP_Dx
+Change Net Name : Old Net Name=NetDr1_Dx_8 New Net Name=DIR_Dx
+Change Net Name : Old Net Name=NetDr1_Dy_7 New Net Name=STEP_Dy
+Change Net Name : Old Net Name=NetDr1_Dy_8 New Net Name=DIR_Dy
+Change Net Name : Old Net Name=NetDr1_Dz_7 New Net Name=STEP_Dz
+Change Net Name : Old Net Name=NetDr1_Dz_8 New Net Name=DIR_Dz
+Change Net Name : Old Net Name=NetR1_Dx_1 New Net Name=EN_Dx
+Change Net Name : Old Net Name=NetR1_Dy_1 New Net Name=EN_Dy
+Change Net Name : Old Net Name=NetR1_Dz_1 New Net Name=EN_Dz
+Added Pin To Net: NetName=Dir_X Pin=MD2-28
+Added Net: Name=Dir_X
+Added Pin To Net: NetName=Dir_Y Pin=MD2-16
+Added Net: Name=Dir_Y
+Added Pin To Net: NetName=Dir_Z Pin=MD2-10
+Added Net: Name=Dir_Z
+Added Pin To Net: NetName=EN_X Pin=MD2-36
+Added Net: Name=EN_X
+Added Pin To Net: NetName=EN_Y Pin=MD2-27
+Added Net: Name=EN_Y
+Added Pin To Net: NetName=EN_Z Pin=MD2-12
+Added Net: Name=EN_Z
+Added Pin To Net: NetName=Sensor_X+ Pin=MD2-4
+Added Net: Name=Sensor_X+
+Added Pin To Net: NetName=Sensor_X- Pin=MD2-5
+Added Net: Name=Sensor_X-
+Added Pin To Net: NetName=Sensor_Y+ Pin=MD2-6
+Added Net: Name=Sensor_Y+
+Added Pin To Net: NetName=Sensor_Y- Pin=MD2-7
+Added Net: Name=Sensor_Y-
+Added Pin To Net: NetName=Sensor_Z Pin=MD2-8
+Added Net: Name=Sensor_Z
+Added Pin To Net: NetName=Step_X Pin=MD2-33
+Added Net: Name=Step_X
+Added Pin To Net: NetName=Step_Y Pin=MD2-26
+Added Net: Name=Step_Y
+Added Pin To Net: NetName=Step_Z Pin=MD2-11
+Added Net: Name=Step_Z
+Added Pin To Net: NetName=TRIGGER_Spindle Pin=MD2-9
+Added Net: Name=TRIGGER_Spindle

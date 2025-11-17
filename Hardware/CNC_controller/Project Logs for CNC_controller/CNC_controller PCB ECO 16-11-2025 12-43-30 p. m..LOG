@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=GPIO_Da Pin=Dr1_Da-1
+Removed Pin From Net: NetName=GPIO_Da Pin=Dr1_Da-7
+Removed Pin From Net: NetName=GPIO_Da Pin=Dr1_Da-8
+Removed Pin From Net: NetName=GPIO_Dx Pin=Dr1_Dx-1
+Removed Pin From Net: NetName=GPIO_Dx Pin=Dr1_Dx-7
+Removed Pin From Net: NetName=GPIO_Dx Pin=Dr1_Dx-8
+Removed Pin From Net: NetName=GPIO_Dy Pin=Dr1_Dy-1
+Removed Pin From Net: NetName=GPIO_Dy Pin=Dr1_Dy-7
+Removed Pin From Net: NetName=GPIO_Dy Pin=Dr1_Dy-8
+Removed Pin From Net: NetName=GPIO_Dz Pin=Dr1_Dz-1
+Removed Pin From Net: NetName=GPIO_Dz Pin=Dr1_Dz-7
+Removed Pin From Net: NetName=GPIO_Dz Pin=Dr1_Dz-8
+Added Component: Designator=R?_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Da(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dx(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dy(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?_Dz(0603_res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2907080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_MCU Pin=R?_Da-1
+Added Pin To Net: NetName=GND_MCU Pin=R?_Dx-1
+Added Pin To Net: NetName=GND_MCU Pin=R?_Dy-1
+Added Pin To Net: NetName=GND_MCU Pin=R?_Dz-1
+Added Pin To Net: NetName=EN_Da Pin=Dr1_Da-1
+Added Pin To Net: NetName=EN_Da Pin=R?_Da-2
+Added Net: Name=EN_Da
+Added Pin To Net: NetName=EN_Dx Pin=Dr1_Dx-1
+Added Pin To Net: NetName=EN_Dx Pin=R?_Dx-2
+Added Net: Name=EN_Dx
+Added Pin To Net: NetName=EN_Dy Pin=Dr1_Dy-1
+Added Pin To Net: NetName=EN_Dy Pin=R?_Dy-2
+Added Net: Name=EN_Dy
+Added Pin To Net: NetName=EN_Dz Pin=Dr1_Dz-1
+Added Pin To Net: NetName=EN_Dz Pin=R?_Dz-2
+Added Net: Name=EN_Dz
+Added Pin To Net: NetName=NetDr1_Da_7 Pin=Dr1_Da-7
+Added Net: Name=NetDr1_Da_7
+Added Pin To Net: NetName=NetDr1_Da_8 Pin=Dr1_Da-8
+Added Net: Name=NetDr1_Da_8
+Added Pin To Net: NetName=NetDr1_Dx_7 Pin=Dr1_Dx-7
+Added Net: Name=NetDr1_Dx_7
+Added Pin To Net: NetName=NetDr1_Dx_8 Pin=Dr1_Dx-8
+Added Net: Name=NetDr1_Dx_8
+Added Pin To Net: NetName=NetDr1_Dy_7 Pin=Dr1_Dy-7
+Added Net: Name=NetDr1_Dy_7
+Added Pin To Net: NetName=NetDr1_Dy_8 Pin=Dr1_Dy-8
+Added Net: Name=NetDr1_Dy_8
+Added Pin To Net: NetName=NetDr1_Dz_7 Pin=Dr1_Dz-7
+Added Net: Name=NetDr1_Dz_7
+Added Pin To Net: NetName=NetDr1_Dz_8 Pin=Dr1_Dz-8
+Added Net: Name=NetDr1_Dz_8
+Added Pin To Net: NetName=NetR?_Da_1 Pin=R?_Da-1
+Added Pin To Net: NetName=NetR?_Da_1 Pin=R?_Da-2
+Added Net: Name=NetR?_Da_1
+Added Pin To Net: NetName=NetR?_Dx_1 Pin=R?_Dx-1
+Added Pin To Net: NetName=NetR?_Dx_1 Pin=R?_Dx-2
+Added Net: Name=NetR?_Dx_1
+Added Pin To Net: NetName=NetR?_Dy_1 Pin=R?_Dy-1
+Added Pin To Net: NetName=NetR?_Dy_1 Pin=R?_Dy-2
+Added Net: Name=NetR?_Dy_1
+Added Pin To Net: NetName=NetR?_Dz_1 Pin=R?_Dz-1
+Added Pin To Net: NetName=NetR?_Dz_1 Pin=R?_Dz-2
+Added Net: Name=NetR?_Dz_1
+Added Member To Class: ClassName=Da Member=Component R?_Da (R?) 0R 1/10W
+Added Member To Class: ClassName=Da Member=Component R?_Da (R?) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R?_Dx (R?) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R?_Dx (R?) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R?_Dy (R?) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R?_Dy (R?) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R?_Dz (R?) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R?_Dz (R?) 0R 1/10W

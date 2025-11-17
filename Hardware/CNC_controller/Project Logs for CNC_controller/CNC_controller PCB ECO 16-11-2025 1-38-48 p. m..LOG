@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Vspindle Pin=J7-1
+Removed Pin From Net: NetName=GND_Spindle Pin=J7-2
+Removed Pin From Net: NetName=Net3_3 Pin=J10-1
+Removed Pin From Net: NetName=GND_Spindle Pin=J10-2
+Added Pin To Net: NetName=GND_Spindle Pin=J7-1
+Added Pin To Net: NetName=Vspindle Pin=J7-2
+Added Pin To Net: NetName=GND_Spindle Pin=J10-1
+Added Pin To Net: NetName=Net3_3 Pin=J10-2

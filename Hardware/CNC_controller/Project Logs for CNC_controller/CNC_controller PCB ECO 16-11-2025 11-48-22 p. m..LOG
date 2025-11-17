@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=DIR_X New Net Name=EN_Y
+Change Net Name : Old Net Name=DIR_Y New Net Name=DIR_X
+Change Net Name : Old Net Name=EN_X New Net Name=STEP_Y
+Change Net Name : Old Net Name=EN_Y New Net Name=STEP_X
+Change Net Name : Old Net Name=EN_Z New Net Name=STEP_Z
+Change Net Name : Old Net Name=STEP_X New Net Name=DIR_Y
+Change Net Name : Old Net Name=STEP_Y New Net Name=EN_X
+Change Net Name : Old Net Name=STEP_Z New Net Name=EN_Z

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=Dr1_Da-16
+Removed Pin From Net: NetName=GND Pin=Dr1_Dx-16
+Removed Pin From Net: NetName=GND Pin=Dr1_Dy-16
+Removed Pin From Net: NetName=GND Pin=Dr1_Dz-16
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Da-16
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dx-16
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dy-16
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dz-16

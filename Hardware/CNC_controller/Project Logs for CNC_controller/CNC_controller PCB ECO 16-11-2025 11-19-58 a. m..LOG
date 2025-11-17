@@ -1,0 +1,26 @@
+Added Component: Designator=U10(SOT_223)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/_UMW-Youtai-Semiconductor-Co-Ltd-_C347222.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW(Youtai Semiconductor Co., Ltd.)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C347222"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOT_23_6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/ESD-Protection-Devices_STMicroelectronics-USBLC6-2SC6_C7519.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C7519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=3V3 Pin=U10-2
+Added Pin To Net: NetName=+5 Pin=U10-3
+Added Pin To Net: NetName=C_D_N Pin=U14-1
+Added Pin To Net: NetName=GND_MCU Pin=U14-2
+Added Pin To Net: NetName=C_D_P Pin=U14-3
+Added Pin To Net: NetName=D_P Pin=U14-4
+Added Pin To Net: NetName=VBUS Pin=U14-5
+Added Pin To Net: NetName=D_N Pin=U14-6
+Added Member To Class: ClassName=POWER Member=Component U10 AMS1117-3.3
+Added Member To Class: ClassName=MCU Member=Component U14 USBLC6-2SC6

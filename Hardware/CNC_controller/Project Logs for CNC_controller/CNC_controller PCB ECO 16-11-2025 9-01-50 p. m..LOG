@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=J1-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=J2-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=J3-2
+Added Pin To Net: NetName=Sensor_X- Pin=J1-2
+Added Pin To Net: NetName=Sensor_X+ Pin=J2-2
+Added Pin To Net: NetName=Sensor_Y- Pin=J3-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J4-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J5-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J6-2
+Added Pin To Net: NetName=NetJ1_2 Pin=MD2-8
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=Sensor_Y+
+Added Member To Class: ClassName=MCU Member=Component R4 0R 1/10W

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Sensor_Y+ Pin=J5-2
+Removed Pin From Net: NetName=Sensor_Y+ Pin=J6-2
+Added Pin To Net: NetName=Sensor_Z Pin=J5-2
+Added Pin To Net: NetName=Sensor_Z Pin=J6-2
+Added Pin To Net: NetName=Sensor_Z Pin=MD2-8
+Added Net: Name=Sensor_Z

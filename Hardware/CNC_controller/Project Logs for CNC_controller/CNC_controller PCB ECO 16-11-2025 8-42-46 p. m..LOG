@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR11_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Pin To Net: NetName=NetR4_2 Pin=R8-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R7-1
+Added Pin To Net: NetName=NetR5_2 Pin=R9-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R12-1
+Added Pin To Net: NetName=NetR10_2 Pin=R14-2
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=MCU Member=Component R5 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R6 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R7 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R8 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R9 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R10 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R11 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R12 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R13 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R14 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R15 0R 1/10W

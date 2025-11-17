@@ -1,0 +1,104 @@
+Added Component: Designator=U1_Da(A4988 Module)
+Added Component: Designator=U1_Dx(A4988 Module)
+Added Component: Designator=U1_Dy(A4988 Module)
+Added Component: Designator=U1_Dz(A4988 Module)
+Added Component: Designator=U12_Da(A4988 Module)
+Added Component: Designator=U12_Dx(A4988 Module)
+Added Component: Designator=U12_Dy(A4988 Module)
+Added Component: Designator=U12_Dz(A4988 Module)
+Added Pin To Net: NetName=+5 Pin=U1_Da-17
+Added Pin To Net: NetName=M1x_Da Pin=U1_Da-18
+Added Pin To Net: NetName=+5 Pin=U1_Da-19
+Added Pin To Net: NetName=M2x_Da Pin=U1_Da-20
+Added Pin To Net: NetName=+5 Pin=U1_Da-21
+Added Pin To Net: NetName=M3x_Da Pin=U1_Da-22
+Added Pin To Net: NetName=+5 Pin=U1_Dx-17
+Added Pin To Net: NetName=M1x_Dx Pin=U1_Dx-18
+Added Pin To Net: NetName=+5 Pin=U1_Dx-19
+Added Pin To Net: NetName=M2x_Dx Pin=U1_Dx-20
+Added Pin To Net: NetName=+5 Pin=U1_Dx-21
+Added Pin To Net: NetName=M3x_Dx Pin=U1_Dx-22
+Added Pin To Net: NetName=+5 Pin=U1_Dy-17
+Added Pin To Net: NetName=M1x_Dy Pin=U1_Dy-18
+Added Pin To Net: NetName=+5 Pin=U1_Dy-19
+Added Pin To Net: NetName=M2x_Dy Pin=U1_Dy-20
+Added Pin To Net: NetName=+5 Pin=U1_Dy-21
+Added Pin To Net: NetName=M3x_Dy Pin=U1_Dy-22
+Added Pin To Net: NetName=+5 Pin=U1_Dz-17
+Added Pin To Net: NetName=M1x_Dz Pin=U1_Dz-18
+Added Pin To Net: NetName=+5 Pin=U1_Dz-19
+Added Pin To Net: NetName=M2x_Dz Pin=U1_Dz-20
+Added Pin To Net: NetName=+5 Pin=U1_Dz-21
+Added Pin To Net: NetName=M3x_Dz Pin=U1_Dz-22
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-1
+Added Pin To Net: NetName=M1x_Da Pin=U12_Da-2
+Added Pin To Net: NetName=M2x_Da Pin=U12_Da-3
+Added Pin To Net: NetName=M3x_Da Pin=U12_Da-4
+Added Pin To Net: NetName=NetU12_Da_5 Pin=U12_Da-5
+Added Pin To Net: NetName=NetU12_Da_5 Pin=U12_Da-6
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-7
+Added Pin To Net: NetName=GPIO_Da Pin=U12_Da-8
+Added Pin To Net: NetName=VMOTOR_Da Pin=U12_Da-9
+Added Pin To Net: NetName=GND Pin=U12_Da-10
+Added Pin To Net: NetName=NetJ12_Da_1 Pin=U12_Da-11
+Added Pin To Net: NetName=NetJ12_Da_2 Pin=U12_Da-12
+Added Pin To Net: NetName=NetJ12_Da_3 Pin=U12_Da-13
+Added Pin To Net: NetName=NetJ12_Da_4 Pin=U12_Da-14
+Added Pin To Net: NetName=+5 Pin=U12_Da-15
+Added Pin To Net: NetName=GND Pin=U12_Da-16
+Added Pin To Net: NetName=GPIO_Dx Pin=U12_Dx-1
+Added Pin To Net: NetName=M1x_Dx Pin=U12_Dx-2
+Added Pin To Net: NetName=M2x_Dx Pin=U12_Dx-3
+Added Pin To Net: NetName=M3x_Dx Pin=U12_Dx-4
+Added Pin To Net: NetName=NetU12_Dx_5 Pin=U12_Dx-5
+Added Pin To Net: NetName=NetU12_Dx_5 Pin=U12_Dx-6
+Added Pin To Net: NetName=GPIO_Dx Pin=U12_Dx-7
+Added Pin To Net: NetName=GPIO_Dx Pin=U12_Dx-8
+Added Pin To Net: NetName=VMOTOR_Dx Pin=U12_Dx-9
+Added Pin To Net: NetName=GND Pin=U12_Dx-10
+Added Pin To Net: NetName=NetJ12_Dx_1 Pin=U12_Dx-11
+Added Pin To Net: NetName=NetJ12_Dx_2 Pin=U12_Dx-12
+Added Pin To Net: NetName=NetJ12_Dx_3 Pin=U12_Dx-13
+Added Pin To Net: NetName=NetJ12_Dx_4 Pin=U12_Dx-14
+Added Pin To Net: NetName=+5 Pin=U12_Dx-15
+Added Pin To Net: NetName=GND Pin=U12_Dx-16
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-1
+Added Pin To Net: NetName=M1x_Dy Pin=U12_Dy-2
+Added Pin To Net: NetName=M2x_Dy Pin=U12_Dy-3
+Added Pin To Net: NetName=M3x_Dy Pin=U12_Dy-4
+Added Pin To Net: NetName=NetU12_Dy_5 Pin=U12_Dy-5
+Added Pin To Net: NetName=NetU12_Dy_5 Pin=U12_Dy-6
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-7
+Added Pin To Net: NetName=GPIO_Dy Pin=U12_Dy-8
+Added Pin To Net: NetName=VMOTOR_Dy Pin=U12_Dy-9
+Added Pin To Net: NetName=GND Pin=U12_Dy-10
+Added Pin To Net: NetName=NetJ12_Dy_1 Pin=U12_Dy-11
+Added Pin To Net: NetName=NetJ12_Dy_2 Pin=U12_Dy-12
+Added Pin To Net: NetName=NetJ12_Dy_3 Pin=U12_Dy-13
+Added Pin To Net: NetName=NetJ12_Dy_4 Pin=U12_Dy-14
+Added Pin To Net: NetName=+5 Pin=U12_Dy-15
+Added Pin To Net: NetName=GND Pin=U12_Dy-16
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-1
+Added Pin To Net: NetName=M1x_Dz Pin=U12_Dz-2
+Added Pin To Net: NetName=M2x_Dz Pin=U12_Dz-3
+Added Pin To Net: NetName=M3x_Dz Pin=U12_Dz-4
+Added Pin To Net: NetName=NetU12_Dz_5 Pin=U12_Dz-5
+Added Pin To Net: NetName=NetU12_Dz_5 Pin=U12_Dz-6
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-7
+Added Pin To Net: NetName=GPIO_Dz Pin=U12_Dz-8
+Added Pin To Net: NetName=VMOTOR_Dz Pin=U12_Dz-9
+Added Pin To Net: NetName=GND Pin=U12_Dz-10
+Added Pin To Net: NetName=NetJ12_Dz_1 Pin=U12_Dz-11
+Added Pin To Net: NetName=NetJ12_Dz_2 Pin=U12_Dz-12
+Added Pin To Net: NetName=NetJ12_Dz_3 Pin=U12_Dz-13
+Added Pin To Net: NetName=NetJ12_Dz_4 Pin=U12_Dz-14
+Added Pin To Net: NetName=+5 Pin=U12_Dz-15
+Added Pin To Net: NetName=GND Pin=U12_Dz-16
+Added Member To Class: ClassName=Da Member=Component U1_Da (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dx Member=Component U1_Dx (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component U1_Dy (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component U1_Dz (U1A) A4988 Driver Module
+Added Member To Class: ClassName=Da Member=Component U12_Da (U12) A4988 Driver Module
+Added Member To Class: ClassName=Dx Member=Component U12_Dx (U12) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component U12_Dy (U12) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component U12_Dz (U12) A4988 Driver Module

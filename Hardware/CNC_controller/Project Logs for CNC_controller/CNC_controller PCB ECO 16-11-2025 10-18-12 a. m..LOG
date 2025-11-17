@@ -1,0 +1,132 @@
+Added Component: Designator=Dr1_Da(A4988 Module)
+Added Component: Designator=Dr1_Dx(A4988 Module)
+Added Component: Designator=Dr1_Dy(A4988 Module)
+Added Component: Designator=Dr1_Dz(A4988 Module)
+Added Pin To Net: NetName=GPIO_Da Pin=Dr1_Da-1
+Added Pin To Net: NetName=M1x_Da Pin=Dr1_Da-2
+Added Pin To Net: NetName=M2x_Da Pin=Dr1_Da-3
+Added Pin To Net: NetName=M3x_Da Pin=Dr1_Da-4
+Added Pin To Net: NetName=GPIO_Da Pin=Dr1_Da-7
+Added Pin To Net: NetName=GPIO_Da Pin=Dr1_Da-8
+Added Pin To Net: NetName=VMOTOR_Da Pin=Dr1_Da-9
+Added Pin To Net: NetName=GND Pin=Dr1_Da-10
+Added Pin To Net: NetName=+5 Pin=Dr1_Da-15
+Added Pin To Net: NetName=GND Pin=Dr1_Da-16
+Added Pin To Net: NetName=+5 Pin=Dr1_Da-17
+Added Pin To Net: NetName=M1x_Da Pin=Dr1_Da-18
+Added Pin To Net: NetName=+5 Pin=Dr1_Da-19
+Added Pin To Net: NetName=M2x_Da Pin=Dr1_Da-20
+Added Pin To Net: NetName=+5 Pin=Dr1_Da-21
+Added Pin To Net: NetName=M3x_Da Pin=Dr1_Da-22
+Added Pin To Net: NetName=GPIO_Dx Pin=Dr1_Dx-1
+Added Pin To Net: NetName=M1x_Dx Pin=Dr1_Dx-2
+Added Pin To Net: NetName=M2x_Dx Pin=Dr1_Dx-3
+Added Pin To Net: NetName=M3x_Dx Pin=Dr1_Dx-4
+Added Pin To Net: NetName=GPIO_Dx Pin=Dr1_Dx-7
+Added Pin To Net: NetName=GPIO_Dx Pin=Dr1_Dx-8
+Added Pin To Net: NetName=VMOTOR_Dx Pin=Dr1_Dx-9
+Added Pin To Net: NetName=GND Pin=Dr1_Dx-10
+Added Pin To Net: NetName=+5 Pin=Dr1_Dx-15
+Added Pin To Net: NetName=GND Pin=Dr1_Dx-16
+Added Pin To Net: NetName=+5 Pin=Dr1_Dx-17
+Added Pin To Net: NetName=M1x_Dx Pin=Dr1_Dx-18
+Added Pin To Net: NetName=+5 Pin=Dr1_Dx-19
+Added Pin To Net: NetName=M2x_Dx Pin=Dr1_Dx-20
+Added Pin To Net: NetName=+5 Pin=Dr1_Dx-21
+Added Pin To Net: NetName=M3x_Dx Pin=Dr1_Dx-22
+Added Pin To Net: NetName=GPIO_Dy Pin=Dr1_Dy-1
+Added Pin To Net: NetName=M1x_Dy Pin=Dr1_Dy-2
+Added Pin To Net: NetName=M2x_Dy Pin=Dr1_Dy-3
+Added Pin To Net: NetName=M3x_Dy Pin=Dr1_Dy-4
+Added Pin To Net: NetName=GPIO_Dy Pin=Dr1_Dy-7
+Added Pin To Net: NetName=GPIO_Dy Pin=Dr1_Dy-8
+Added Pin To Net: NetName=VMOTOR_Dy Pin=Dr1_Dy-9
+Added Pin To Net: NetName=GND Pin=Dr1_Dy-10
+Added Pin To Net: NetName=+5 Pin=Dr1_Dy-15
+Added Pin To Net: NetName=GND Pin=Dr1_Dy-16
+Added Pin To Net: NetName=+5 Pin=Dr1_Dy-17
+Added Pin To Net: NetName=M1x_Dy Pin=Dr1_Dy-18
+Added Pin To Net: NetName=+5 Pin=Dr1_Dy-19
+Added Pin To Net: NetName=M2x_Dy Pin=Dr1_Dy-20
+Added Pin To Net: NetName=+5 Pin=Dr1_Dy-21
+Added Pin To Net: NetName=M3x_Dy Pin=Dr1_Dy-22
+Added Pin To Net: NetName=GPIO_Dz Pin=Dr1_Dz-1
+Added Pin To Net: NetName=M1x_Dz Pin=Dr1_Dz-2
+Added Pin To Net: NetName=M2x_Dz Pin=Dr1_Dz-3
+Added Pin To Net: NetName=M3x_Dz Pin=Dr1_Dz-4
+Added Pin To Net: NetName=GPIO_Dz Pin=Dr1_Dz-7
+Added Pin To Net: NetName=GPIO_Dz Pin=Dr1_Dz-8
+Added Pin To Net: NetName=VMOTOR_Dz Pin=Dr1_Dz-9
+Added Pin To Net: NetName=GND Pin=Dr1_Dz-10
+Added Pin To Net: NetName=+5 Pin=Dr1_Dz-15
+Added Pin To Net: NetName=GND Pin=Dr1_Dz-16
+Added Pin To Net: NetName=+5 Pin=Dr1_Dz-17
+Added Pin To Net: NetName=M1x_Dz Pin=Dr1_Dz-18
+Added Pin To Net: NetName=+5 Pin=Dr1_Dz-19
+Added Pin To Net: NetName=M2x_Dz Pin=Dr1_Dz-20
+Added Pin To Net: NetName=+5 Pin=Dr1_Dz-21
+Added Pin To Net: NetName=M3x_Dz Pin=Dr1_Dz-22
+Added Pin To Net: NetName=NetDr1_Da_5 Pin=Dr1_Da-5
+Added Pin To Net: NetName=NetDr1_Da_5 Pin=Dr1_Da-6
+Added Net: Name=NetDr1_Da_5
+Added Pin To Net: NetName=NetDr1_Da_11 Pin=Dr1_Da-11
+Added Pin To Net: NetName=NetDr1_Da_11 Pin=J12_Da-1
+Added Net: Name=NetDr1_Da_11
+Added Pin To Net: NetName=NetDr1_Da_12 Pin=Dr1_Da-12
+Added Pin To Net: NetName=NetDr1_Da_12 Pin=J12_Da-2
+Added Net: Name=NetDr1_Da_12
+Added Pin To Net: NetName=NetDr1_Da_13 Pin=Dr1_Da-13
+Added Pin To Net: NetName=NetDr1_Da_13 Pin=J12_Da-3
+Added Net: Name=NetDr1_Da_13
+Added Pin To Net: NetName=NetDr1_Da_14 Pin=Dr1_Da-14
+Added Pin To Net: NetName=NetDr1_Da_14 Pin=J12_Da-4
+Added Net: Name=NetDr1_Da_14
+Added Pin To Net: NetName=NetDr1_Dx_5 Pin=Dr1_Dx-5
+Added Pin To Net: NetName=NetDr1_Dx_5 Pin=Dr1_Dx-6
+Added Net: Name=NetDr1_Dx_5
+Added Pin To Net: NetName=NetDr1_Dx_11 Pin=Dr1_Dx-11
+Added Pin To Net: NetName=NetDr1_Dx_11 Pin=J12_Dx-1
+Added Net: Name=NetDr1_Dx_11
+Added Pin To Net: NetName=NetDr1_Dx_12 Pin=Dr1_Dx-12
+Added Pin To Net: NetName=NetDr1_Dx_12 Pin=J12_Dx-2
+Added Net: Name=NetDr1_Dx_12
+Added Pin To Net: NetName=NetDr1_Dx_13 Pin=Dr1_Dx-13
+Added Pin To Net: NetName=NetDr1_Dx_13 Pin=J12_Dx-3
+Added Net: Name=NetDr1_Dx_13
+Added Pin To Net: NetName=NetDr1_Dx_14 Pin=Dr1_Dx-14
+Added Pin To Net: NetName=NetDr1_Dx_14 Pin=J12_Dx-4
+Added Net: Name=NetDr1_Dx_14
+Added Pin To Net: NetName=NetDr1_Dy_5 Pin=Dr1_Dy-5
+Added Pin To Net: NetName=NetDr1_Dy_5 Pin=Dr1_Dy-6
+Added Net: Name=NetDr1_Dy_5
+Added Pin To Net: NetName=NetDr1_Dy_11 Pin=Dr1_Dy-11
+Added Pin To Net: NetName=NetDr1_Dy_11 Pin=J12_Dy-1
+Added Net: Name=NetDr1_Dy_11
+Added Pin To Net: NetName=NetDr1_Dy_12 Pin=Dr1_Dy-12
+Added Pin To Net: NetName=NetDr1_Dy_12 Pin=J12_Dy-2
+Added Net: Name=NetDr1_Dy_12
+Added Pin To Net: NetName=NetDr1_Dy_13 Pin=Dr1_Dy-13
+Added Pin To Net: NetName=NetDr1_Dy_13 Pin=J12_Dy-3
+Added Net: Name=NetDr1_Dy_13
+Added Pin To Net: NetName=NetDr1_Dy_14 Pin=Dr1_Dy-14
+Added Pin To Net: NetName=NetDr1_Dy_14 Pin=J12_Dy-4
+Added Net: Name=NetDr1_Dy_14
+Added Pin To Net: NetName=NetDr1_Dz_5 Pin=Dr1_Dz-5
+Added Pin To Net: NetName=NetDr1_Dz_5 Pin=Dr1_Dz-6
+Added Net: Name=NetDr1_Dz_5
+Added Pin To Net: NetName=NetDr1_Dz_11 Pin=Dr1_Dz-11
+Added Pin To Net: NetName=NetDr1_Dz_11 Pin=J12_Dz-1
+Added Net: Name=NetDr1_Dz_11
+Added Pin To Net: NetName=NetDr1_Dz_12 Pin=Dr1_Dz-12
+Added Pin To Net: NetName=NetDr1_Dz_12 Pin=J12_Dz-2
+Added Net: Name=NetDr1_Dz_12
+Added Pin To Net: NetName=NetDr1_Dz_13 Pin=Dr1_Dz-13
+Added Pin To Net: NetName=NetDr1_Dz_13 Pin=J12_Dz-3
+Added Net: Name=NetDr1_Dz_13
+Added Pin To Net: NetName=NetDr1_Dz_14 Pin=Dr1_Dz-14
+Added Pin To Net: NetName=NetDr1_Dz_14 Pin=J12_Dz-4
+Added Net: Name=NetDr1_Dz_14
+Added Member To Class: ClassName=Da Member=Component Dr1_Da (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Dx Member=Component Dr1_Dx (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component Dr1_Dy (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component Dr1_Dz (Dr1A) A4988 Driver Module

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Sensor_X- Pin=J1-2
+Removed Pin From Net: NetName=Sensor_X+ Pin=J2-2
+Removed Pin From Net: NetName=Sensor_Y- Pin=J3-2
+Removed Pin From Net: NetName=Sensor_Y+ Pin=J4-2
+Removed Pin From Net: NetName=Sensor_Z Pin=J5-2
+Removed Pin From Net: NetName=Sensor_Z Pin=J6-2
+Added Pin To Net: NetName=Sensor_X+ Pin=J1-2
+Added Pin To Net: NetName=Sensor_X- Pin=J2-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J3-2
+Added Pin To Net: NetName=Sensor_Y- Pin=J4-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J5-2
+Added Pin To Net: NetName=Sensor_Y+ Pin=J6-2
