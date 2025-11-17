@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=STEP_Dx Pin=Q13_Dx-1
+Removed Pin From Net: NetName=STEP_Dy Pin=Q13_Dy-1
+Removed Pin From Net: NetName=STEP_Dz Pin=Q13_Dz-1
+Removed Pin From Net: NetName=DIR_Dx Pin=Q14_Dx-1
+Removed Pin From Net: NetName=DIR_Dy Pin=Q14_Dy-1
+Removed Pin From Net: NetName=DIR_Dz Pin=Q14_Dz-1
+Added Pin To Net: NetName=DIR_Dx Pin=Q13_Dx-1
+Added Pin To Net: NetName=DIR_Dy Pin=Q13_Dy-1
+Added Pin To Net: NetName=DIR_Dz Pin=Q13_Dz-1
+Added Pin To Net: NetName=STEP_Dx Pin=Q14_Dx-1
+Added Pin To Net: NetName=STEP_Dy Pin=Q14_Dy-1
+Added Pin To Net: NetName=STEP_Dz Pin=Q14_Dz-1

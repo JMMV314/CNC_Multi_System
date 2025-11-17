@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=DIR_Dx Pin=Dr1_Dx-8
+Added Pin To Net: NetName=DIR_Dx Pin=MD2-33
+Added Pin To Net: NetName=DIR_Dx Pin=Q14_Dx-1
+Added Net: Name=DIR_Dx
+Added Pin To Net: NetName=DIR_Dy Pin=Dr1_Dy-8
+Added Pin To Net: NetName=DIR_Dy Pin=MD2-26
+Added Pin To Net: NetName=DIR_Dy Pin=Q14_Dy-1
+Added Net: Name=DIR_Dy
+Added Pin To Net: NetName=DIR_Dz Pin=Dr1_Dz-8
+Added Pin To Net: NetName=DIR_Dz Pin=MD2-11
+Added Pin To Net: NetName=DIR_Dz Pin=Q14_Dz-1
+Added Net: Name=DIR_Dz
+Added Pin To Net: NetName=STEP_Dx Pin=Dr1_Dx-7
+Added Pin To Net: NetName=STEP_Dx Pin=MD2-36
+Added Pin To Net: NetName=STEP_Dx Pin=Q13_Dx-1
+Added Net: Name=STEP_Dx
+Added Pin To Net: NetName=STEP_Dy Pin=Dr1_Dy-7
+Added Pin To Net: NetName=STEP_Dy Pin=MD2-27
+Added Pin To Net: NetName=STEP_Dy Pin=Q13_Dy-1
+Added Net: Name=STEP_Dy
+Added Pin To Net: NetName=STEP_Dz Pin=Dr1_Dz-7
+Added Pin To Net: NetName=STEP_Dz Pin=MD2-12
+Added Pin To Net: NetName=STEP_Dz Pin=Q13_Dz-1
+Added Net: Name=STEP_Dz
+Added Member To Class: ClassName=MCU Member=Component R4 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R10 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R11 0R 1/10W
