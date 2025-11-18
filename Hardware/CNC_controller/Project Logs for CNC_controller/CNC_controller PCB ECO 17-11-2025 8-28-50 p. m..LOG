@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=GND_MCU Pin=R57-1
+Added Pin To Net: NetName=GND_MCU Pin=R58-1
+Added Member To Class: ClassName=Dx Member=Component C1_Dx (C1) Cap_100uF_Electr_TH_50V

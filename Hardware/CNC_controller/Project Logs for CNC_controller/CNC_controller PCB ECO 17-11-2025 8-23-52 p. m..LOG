@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=C1_Dx Old Footprint=CAP_MZR_F80_NIP New Footprint=CAP_TH
+Change Component Footprint: Designator=C1_Dy Old Footprint=CAP_MZR_F80_NIP New Footprint=CAP_TH
+Change Component Footprint: Designator=C1_Dz Old Footprint=CAP_MZR_F80_NIP New Footprint=CAP_TH
+Change Component Comment : Designator=C1_Dx Old Comment=CAP ALUM 100uF ±20% 50V SMD New Comment=Cap_100uF_Electr_TH_50V
+Change Component Comment : Designator=C1_Dy Old Comment=CAP ALUM 100uF ±20% 50V SMD New Comment=Cap_100uF_Electr_TH_50V
+Change Component Comment : Designator=C1_Dz Old Comment=CAP ALUM 100uF ±20% 50V SMD New Comment=Cap_100uF_Electr_TH_50V
+Change component parameters: Designator = "C1_Dx" ("C1"); Footprint = "CAP_MZR_F80_NIP"; UniqueID = "\VUURGNFK\ISRYFWCK" ("\VUURGNFK\ISRYFWCK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_Dy" ("C1"); Footprint = "CAP_MZR_F80_NIP"; UniqueID = "\MMGIOKTR\ISRYFWCK" ("\MMGIOKTR\ISRYFWCK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_Dz" ("C1"); Footprint = "CAP_MZR_F80_NIP"; UniqueID = "\WQPSXLXD\ISRYFWCK" ("\WQPSXLXD\ISRYFWCK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
