@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=POWER Member=C1
+Removed Member From Class: ClassName=Sensors Member=J1
+Removed Member From Class: ClassName=Sensors Member=J2
+Removed Member From Class: ClassName=Sensors Member=J3
+Removed Member From Class: ClassName=POWER Member=J8
+Removed Member From Class: ClassName=Spindle Member=J11
+Removed Member From Class: ClassName=Spindle Member=R16
+Removed Member From Class: ClassName=POWER Member=R17
+Removed Member From Class: ClassName=POWER Member=R18
+Removed Member From Class: ClassName=POWER Member=R19
+Removed Member From Class: ClassName=POWER Member=R21
+Added Pin To Net: NetName=GND Pin=MD1-40
+Added Pin To Net: NetName=GND Pin=MD1-41
+Added Pin To Net: NetName=GND Pin=MD1-42
+Added Pin To Net: NetName=GND Pin=MD1-43
+Added Member To Class: ClassName=POWER Member=Component C2 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=Spindle Member=Component J1 Connector 2pos
+Added Member To Class: ClassName=POWER Member=Component J3 PWR JACK 2.1mm
+Added Member To Class: ClassName=Sensors Member=Component J6 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J7 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J10 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Spindle Member=Component R3 191k 1/10W
+Added Member To Class: ClassName=Spindle Member=Component R4 1k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R5 10k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R6 365k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R7 Res 105k
+Added Member To Class: ClassName=POWER Member=Component R8 49k9 1/10W
+Added Member To Class: ClassName=MCU Member=Component R15 10k 1/10W

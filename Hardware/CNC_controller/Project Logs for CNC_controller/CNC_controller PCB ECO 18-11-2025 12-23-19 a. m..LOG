@@ -1,0 +1,297 @@
+Removed Pin From Net: NetName=Vspindle Pin=3-1
+Removed Pin From Net: NetName=+5 Pin=3-2
+Removed Pin From Net: NetName=VBUS Pin=21-1
+Removed Pin From Net: NetName=GND Pin=21-2
+Change Component Designator: OldDesignator=C1_Dx NewDesignator=C9_Dx
+Change Component Designator: OldDesignator=C1_Dy NewDesignator=C9_Dy
+Change Component Designator: OldDesignator=C1_Dz NewDesignator=C9_Dz
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C21 NewDesignator=C2
+Change Component Designator: OldDesignator=C22 NewDesignator=C3
+Change Component Designator: OldDesignator=C23 NewDesignator=C4
+Change Component Designator: OldDesignator=C24 NewDesignator=C5
+Change Component Designator: OldDesignator=C25 NewDesignator=C6
+Change Component Designator: OldDesignator=C26 NewDesignator=C7
+Change Component Designator: OldDesignator=C27 NewDesignator=C8
+Change Component Designator: OldDesignator=C29 NewDesignator=C10
+Change Component Designator: OldDesignator=C30 NewDesignator=C11
+Change Component Designator: OldDesignator=C31 NewDesignator=C12
+Change Component Designator: OldDesignator=C32 NewDesignator=C13
+Change Component Designator: OldDesignator=C33 NewDesignator=C14
+Change Component Designator: OldDesignator=C34 NewDesignator=C15
+Change Component Designator: OldDesignator=C35 NewDesignator=C16
+Change Component Designator: OldDesignator=C36 NewDesignator=C17
+Change Component Designator: OldDesignator=C37 NewDesignator=C18
+Change Component Designator: OldDesignator=CARD2 NewDesignator=CARD1
+Change Component Designator: OldDesignator=D15 NewDesignator=D2
+Change Component Designator: OldDesignator=D16_Dx NewDesignator=D3_Dx
+Change Component Designator: OldDesignator=D16_Dy NewDesignator=D3_Dy
+Change Component Designator: OldDesignator=D16_Dz NewDesignator=D3_Dz
+Change Component Designator: OldDesignator=D17_Dx NewDesignator=D4_Dx
+Change Component Designator: OldDesignator=D17_Dy NewDesignator=D4_Dy
+Change Component Designator: OldDesignator=D17_Dz NewDesignator=D4_Dz
+Change Component Designator: OldDesignator=D18 NewDesignator=D5
+Change Component Designator: OldDesignator=D19 NewDesignator=D6
+Change Component Designator: OldDesignator=J1 NewDesignator=J6
+Change Component Designator: OldDesignator=J2 NewDesignator=J7
+Change Component Designator: OldDesignator=J3 NewDesignator=J8
+Change Component Designator: OldDesignator=J4 NewDesignator=J9
+Change Component Designator: OldDesignator=J5 NewDesignator=J10
+Change Component Designator: OldDesignator=J6 NewDesignator=J11
+Change Component Designator: OldDesignator=J7 NewDesignator=J2
+Change Component Designator: OldDesignator=J10 NewDesignator=J1
+Change Component Designator: OldDesignator=J11 NewDesignator=J3
+Change Component Designator: OldDesignator=J12_Dx NewDesignator=J4_Dx
+Change Component Designator: OldDesignator=J12_Dy NewDesignator=J4_Dy
+Change Component Designator: OldDesignator=J12_Dz NewDesignator=J4_Dz
+Change Component Designator: OldDesignator=j13 NewDesignator=j5
+Change Component Designator: OldDesignator=MD2 NewDesignator=MD1
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q13_Dx NewDesignator=Q3_Dx
+Change Component Designator: OldDesignator=Q13_Dy NewDesignator=Q3_Dy
+Change Component Designator: OldDesignator=Q13_Dz NewDesignator=Q3_Dz
+Change Component Designator: OldDesignator=Q14_Dx NewDesignator=Q4_Dx
+Change Component Designator: OldDesignator=Q14_Dy NewDesignator=Q4_Dy
+Change Component Designator: OldDesignator=Q14_Dz NewDesignator=Q4_Dz
+Change Component Designator: OldDesignator=Q15 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q16 NewDesignator=Q6
+Change Component Designator: OldDesignator=R1_Dx NewDesignator=R13_Dx
+Change Component Designator: OldDesignator=R1_Dy NewDesignator=R13_Dy
+Change Component Designator: OldDesignator=R1_Dz NewDesignator=R13_Dz
+Change Component Designator: OldDesignator=R2_Dx NewDesignator=R14_Dx
+Change Component Designator: OldDesignator=R2_Dy NewDesignator=R14_Dy
+Change Component Designator: OldDesignator=R2_Dz NewDesignator=R14_Dz
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R16
+Change Component Designator: OldDesignator=R5 NewDesignator=R17
+Change Component Designator: OldDesignator=R6 NewDesignator=R18
+Change Component Designator: OldDesignator=R7 NewDesignator=R19
+Change Component Designator: OldDesignator=R8 NewDesignator=R21
+Change Component Designator: OldDesignator=R9 NewDesignator=R22
+Change Component Designator: OldDesignator=R10 NewDesignator=R23
+Change Component Designator: OldDesignator=R11 NewDesignator=R24
+Change Component Designator: OldDesignator=R12 NewDesignator=R25
+Change Component Designator: OldDesignator=R13 NewDesignator=R26
+Change Component Designator: OldDesignator=R14 NewDesignator=R29
+Change Component Designator: OldDesignator=R15 NewDesignator=R30
+Change Component Designator: OldDesignator=R38 NewDesignator=R2
+Change Component Designator: OldDesignator=R39 NewDesignator=R4
+Change Component Designator: OldDesignator=R40 NewDesignator=R3
+Change Component Designator: OldDesignator=R41 NewDesignator=R5
+Change Component Designator: OldDesignator=R42 NewDesignator=R6
+Change Component Designator: OldDesignator=R43 NewDesignator=R7
+Change Component Designator: OldDesignator=R44 NewDesignator=R8
+Change Component Designator: OldDesignator=R45_Dx NewDesignator=R9_Dx
+Change Component Designator: OldDesignator=R45_Dy NewDesignator=R9_Dy
+Change Component Designator: OldDesignator=R45_Dz NewDesignator=R9_Dz
+Change Component Designator: OldDesignator=R46_Dx NewDesignator=R10_Dx
+Change Component Designator: OldDesignator=R46_Dy NewDesignator=R10_Dy
+Change Component Designator: OldDesignator=R46_Dz NewDesignator=R10_Dz
+Change Component Designator: OldDesignator=R47_Dx NewDesignator=R11_Dx
+Change Component Designator: OldDesignator=R47_Dy NewDesignator=R11_Dy
+Change Component Designator: OldDesignator=R47_Dz NewDesignator=R11_Dz
+Change Component Designator: OldDesignator=R48_Dx NewDesignator=R12_Dx
+Change Component Designator: OldDesignator=R48_Dy NewDesignator=R12_Dy
+Change Component Designator: OldDesignator=R48_Dz NewDesignator=R12_Dz
+Change Component Designator: OldDesignator=R49 NewDesignator=R15
+Change Component Designator: OldDesignator=R50 NewDesignator=R20
+Change Component Designator: OldDesignator=R51 NewDesignator=R28
+Change Component Designator: OldDesignator=R52 NewDesignator=R32
+Change Component Designator: OldDesignator=R53 NewDesignator=R27
+Change Component Designator: OldDesignator=R54 NewDesignator=R31
+Change Component Designator: OldDesignator=R55 NewDesignator=R33
+Change Component Designator: OldDesignator=R56 NewDesignator=R34
+Change Component Designator: OldDesignator=R57 NewDesignator=R35
+Change Component Designator: OldDesignator=R58 NewDesignator=R36
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW2
+Change Component Designator: OldDesignator=U10 NewDesignator=U1
+Change Component Designator: OldDesignator=U11 NewDesignator=U2
+Change Component Designator: OldDesignator=U13 NewDesignator=U3
+Change Component Designator: OldDesignator=U14 NewDesignator=U4
+Added Component: Designator=D7(SOD_123FL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_TDSEMIC-SMF5-0CA_C46956338.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDSEMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMF5.0CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C46956338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Relay1(Relay_5V_15A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Relays_Ningbo-Songle-Relay-SRD-05VDC-SL-C_C35449.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C35449"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=Vspindle Pin=Relay1-1
+Added Pin To Net: NetName=+5 Pin=Relay1-2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD15_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD16_Dx_1 New Net Name=NetD3_Dx_1
+Change Net Name : Old Net Name=NetD16_Dx_2 New Net Name=NetD3_Dx_2
+Change Net Name : Old Net Name=NetD16_Dy_1 New Net Name=NetD3_Dy_1
+Change Net Name : Old Net Name=NetD16_Dy_2 New Net Name=NetD3_Dy_2
+Change Net Name : Old Net Name=NetD16_Dz_1 New Net Name=NetD3_Dz_1
+Change Net Name : Old Net Name=NetD16_Dz_2 New Net Name=NetD3_Dz_2
+Change Net Name : Old Net Name=NetD17_Dx_1 New Net Name=NetD4_Dx_1
+Change Net Name : Old Net Name=NetD17_Dx_2 New Net Name=NetD4_Dx_2
+Change Net Name : Old Net Name=NetD17_Dy_1 New Net Name=NetD4_Dy_1
+Change Net Name : Old Net Name=NetD17_Dy_2 New Net Name=NetD4_Dy_2
+Change Net Name : Old Net Name=NetD17_Dz_1 New Net Name=NetD4_Dz_1
+Change Net Name : Old Net Name=NetD17_Dz_2 New Net Name=NetD4_Dz_2
+Change Net Name : Old Net Name=NetD18_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD18_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=Netj13_A5 New Net Name=Netj5_A5
+Change Net Name : Old Net Name=Netj13_B5 New Net Name=Netj5_B5
+Change Net Name : Old Net Name=NetMD2_10 New Net Name=NetMD1_10
+Change Net Name : Old Net Name=NetMD2_16 New Net Name=NetMD1_16
+Change Net Name : Old Net Name=NetMD2_28 New Net Name=NetMD1_28
+Change Net Name : Old Net Name=NetQ12_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ13_Dx_3 New Net Name=NetQ3_Dx_3
+Change Net Name : Old Net Name=NetQ13_Dy_3 New Net Name=NetQ3_Dy_3
+Change Net Name : Old Net Name=NetQ13_Dz_3 New Net Name=NetQ3_Dz_3
+Change Net Name : Old Net Name=NetQ14_Dx_3 New Net Name=NetQ4_Dx_3
+Change Net Name : Old Net Name=NetQ14_Dy_3 New Net Name=NetQ4_Dy_3
+Change Net Name : Old Net Name=NetQ14_Dz_3 New Net Name=NetQ4_Dz_3
+Change Net Name : Old Net Name=NetQ15_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ16_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR43_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR54_2 New Net Name=NetR31_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetD1_1 Pin=Relay1-5
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Relay1-3
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=Spindle Member=Component C1 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=POWER Member=Component C2 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=POWER Member=Component C3 Cap_5.1pF
+Added Member To Class: ClassName=POWER Member=Component C4 22uF 10V
+Added Member To Class: ClassName=POWER Member=Component C5 10uF 10V
+Added Member To Class: ClassName=POWER Member=Component C6 22uF 10V
+Added Member To Class: ClassName=POWER Member=Component C7 10uF 25V
+Added Member To Class: ClassName=POWER Member=Component C8 470nF 50V
+Added Member To Class: ClassName=Dx Member=Component C9_Dx (C9) Cap_100uF_Electr_TH_50V
+Added Member To Class: ClassName=Dy Member=Component C9_Dy (C9) Cap_100uF_Electr_TH_50V
+Added Member To Class: ClassName=Dz Member=Component C9_Dz (C9) Cap_100uF_Electr_TH_50V
+Added Member To Class: ClassName=MicroSD Member=Component C10 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MCU Member=Component C11 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MCU Member=Component C12 10uF 10V
+Added Member To Class: ClassName=MCU Member=Component C13 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MCU Member=Component C14 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MCU Member=Component C15 10uF 10V
+Added Member To Class: ClassName=MCU Member=Component C16 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MCU Member=Component C17 10uF 10V
+Added Member To Class: ClassName=MCU Member=Component C18 CAP CER 100nF 50V X7R 0603
+Added Member To Class: ClassName=MicroSD Member=Component CARD1 SMD
+Added Member To Class: ClassName=Spindle Member=Component D1 DIODE STANDARD 50V 1A SOD-123F
+Added Member To Class: ClassName=Spindle Member=Component D2 2.3V
+Added Member To Class: ClassName=Dx Member=Component D3_Dx (D3) 2V
+Added Member To Class: ClassName=Dy Member=Component D3_Dy (D3) 2V
+Added Member To Class: ClassName=Dz Member=Component D3_Dz (D3) 2V
+Added Member To Class: ClassName=Dx Member=Component D4_Dx (D4) 2.3V
+Added Member To Class: ClassName=Dy Member=Component D4_Dy (D4) 2.3V
+Added Member To Class: ClassName=Dz Member=Component D4_Dz (D4) 2.3V
+Added Member To Class: ClassName=MCU Member=Component D5 2V
+Added Member To Class: ClassName=MCU Member=Component D6 2.9V
+Added Member To Class: ClassName=MCU Member=Component D7 TVS 12V
+Added Member To Class: ClassName=Dx Member=Component Dr1_Dx (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Dy Member=Component Dr1_Dy (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Dz Member=Component Dr1_Dz (Dr1A) A4988 Driver Module
+Added Member To Class: ClassName=Spindle Member=Component J1 Connector 2pos
+Added Member To Class: ClassName=Spindle Member=Component J2 Connector 2pos
+Added Member To Class: ClassName=POWER Member=Component J3 PWR JACK 2.1mm
+Added Member To Class: ClassName=Dx Member=Component J4_Dx (J4) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dy Member=Component J4_Dy (J4) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=Dz Member=Component J4_Dz (J4) CONN HEADER TH 4POS 2.5mm
+Added Member To Class: ClassName=MCU Member=Component j5 USB C
+Added Member To Class: ClassName=Sensors Member=Component J6 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J7 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J8 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J9 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J10 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=Sensors Member=Component J11 CONN HEADER TH 3POS 2.5mm
+Added Member To Class: ClassName=POWER Member=Component L1 FIXED IND 3.3uH 2.6A 0.052O SMD,4x4mm
+Added Member To Class: ClassName=MCU Member=Component MD1 ESP32-WROOM-32D
+Added Member To Class: ClassName=Spindle Member=Component Q1 N CH
+Added Member To Class: ClassName=Spindle Member=Component Q2 N CH
+Added Member To Class: ClassName=Dx Member=Component Q3_Dx (Q3) N CH
+Added Member To Class: ClassName=Dy Member=Component Q3_Dy (Q3) N CH
+Added Member To Class: ClassName=Dz Member=Component Q3_Dz (Q3) N CH
+Added Member To Class: ClassName=Dx Member=Component Q4_Dx (Q4) N CH
+Added Member To Class: ClassName=Dy Member=Component Q4_Dy (Q4) N CH
+Added Member To Class: ClassName=Dz Member=Component Q4_Dz (Q4) N CH
+Added Member To Class: ClassName=MCU Member=Component Q5 TRANS NPN 40V 200mA SOT-23
+Added Member To Class: ClassName=MCU Member=Component Q6 TRANS NPN 40V 200mA SOT-23
+Added Member To Class: ClassName=Spindle Member=Component R1 0R 1/10W
+Added Member To Class: ClassName=Spindle Member=Component R2 330R 1/10W
+Added Member To Class: ClassName=Spindle Member=Component R3 191k 1/10W
+Added Member To Class: ClassName=Spindle Member=Component R4 1k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R5 10k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R6 365k 1/10W
+Added Member To Class: ClassName=POWER Member=Component R7 Res 105k
+Added Member To Class: ClassName=POWER Member=Component R8 49k9 1/10W
+Added Member To Class: ClassName=Dx Member=Component R9_Dx (R9) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R9_Dy (R9) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R9_Dz (R9) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R10_Dx (R10) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R10_Dy (R10) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R10_Dz (R10) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R11_Dx (R11) 191R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R11_Dy (R11) 191R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R11_Dz (R11) 191R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R12_Dx (R12) 191R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R12_Dy (R12) 191R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R12_Dz (R12) 191R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R13_Dx (R13) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R13_Dy (R13) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R13_Dz (R13) 0R 1/10W
+Added Member To Class: ClassName=Dx Member=Component R14_Dx (R14) 0R 1/10W
+Added Member To Class: ClassName=Dy Member=Component R14_Dy (R14) 0R 1/10W
+Added Member To Class: ClassName=Dz Member=Component R14_Dz (R14) 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R15 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R16 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R17 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R18 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R19 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R20 1k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R21 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R22 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R23 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R24 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R25 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R26 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R27 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R28 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R29 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R30 0R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R31 1k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R32 10k 1/10W
+Added Member To Class: ClassName=MCU Member=Component R33 100R 1/10W
+Added Member To Class: ClassName=MCU Member=Component R34 RES 30O ±5% 100mW 0603
+Added Member To Class: ClassName=MCU Member=Component R35 RES 5.1kO ±1% 100mW 0603
+Added Member To Class: ClassName=MCU Member=Component R36 RES 5.1kO ±1% 100mW 0603
+Added Member To Class: ClassName=Spindle Member=Component Relay1 V_15A
+Added Member To Class: ClassName=MCU Member=Component SW1 Sw
+Added Member To Class: ClassName=MCU Member=Component SW2 Sw
+Added Member To Class: ClassName=POWER Member=Component U1 AMS1117-3.3
+Added Member To Class: ClassName=POWER Member=Component U2 TPS56528DDAR
+Added Member To Class: ClassName=MCU Member=Component U3 CP2102N-A02-GQFN20R
+Added Member To Class: ClassName=MCU Member=Component U4 USBLC6-2SC6
