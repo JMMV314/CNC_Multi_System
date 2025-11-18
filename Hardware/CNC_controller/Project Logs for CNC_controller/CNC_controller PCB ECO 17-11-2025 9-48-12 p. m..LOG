@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND_MCU Pin=C1_Dx-2
+Added Pin To Net: NetName=GND_MCU Pin=C1_Dy-2
+Added Pin To Net: NetName=GND_MCU Pin=C1_Dz-2
+Added Pin To Net: NetName=GND_MCU Pin=C26-2
+Added Pin To Net: NetName=GND_MCU Pin=C27-2
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dx-10
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dy-10
+Added Pin To Net: NetName=GND_MCU Pin=Dr1_Dz-10
+Added Pin To Net: NetName=GND_MCU Pin=J11-2
+Added Pin To Net: NetName=GND_MCU Pin=J11-3
+Change Net Name : Old Net Name=GND_MCU New Net Name=GND
+Added Member To Class: ClassName=POWER Member=Component L1 FIXED IND 3.3uH 2.6A 0.052O SMD,4x4mm
