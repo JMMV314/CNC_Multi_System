@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\CNC_controller.PcbDoc
 Date     : 18/11/2025
-Time     : 1:09:51 p. m.
+Time     : 7:41:55 p. m.
 
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,10 +15,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Preferred=60mil) (InNetClass('3V3_POWER'))
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.524mm) (Preferred=1.524mm) (InNetClass('3V3_POWER'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=60mil) (Preferred=6mil) (All)
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1.524mm) (Preferred=0.152mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
@@ -27,34 +27,34 @@ Rule Violations :0
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=12mil) (MaxHoleWidth=50mil) (PreferredHoleWidth=12mil) (MinWidth=18mil) (MaxWidth=100mil) (PreferedWidth=18mil) (All)
+Processing Rule : Routing Via (MinHoleWidth=0.305mm) (MaxHoleWidth=1.27mm) (PreferredHoleWidth=0.305mm) (MinWidth=0.457mm) (MaxWidth=2.54mm) (PreferedWidth=0.457mm) (All)
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=10mil) (Max=15mil) (Prefered=15mil) (All)
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.254mm) (Max=0.381mm) (Prefered=0.381mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=12mil) (Max=300mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.305mm) (Max=7.62mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.025mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
