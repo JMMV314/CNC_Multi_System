@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\CNC_controller.PcbDoc
-Date     : 18/11/2025
-Time     : 10:30:54 p. m.
+Date     : 20/11/2025
+Time     : 5:21:35 p. m.
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -60,4 +60,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
