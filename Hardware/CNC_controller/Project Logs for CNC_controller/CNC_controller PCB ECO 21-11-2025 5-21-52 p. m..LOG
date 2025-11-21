@@ -1,0 +1,8 @@
+Change component parameters: Designator = "CARD1" ("CARD1"); Footprint = "SD_CARD_PUSH_PCB"; UniqueID = "\OLDSRUZE\PSTQARWP" ("\OLDSRUZE\PSTQARWP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2889258.html?s_z=n_TF-01A_C2889258"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yuandi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TF-01A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C2889258"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
