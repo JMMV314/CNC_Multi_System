@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Juan Manuel Mejia V\Desktop\Proyectos\CNC_Multi\Hardware\CNC_controller\CNC_controller.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cnc_controller-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cnc_controller-slotholes.txt|DrillLayers=gtl,gbl
