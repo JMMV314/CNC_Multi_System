@@ -1,1 +1,140 @@
-dfvdfvdefv
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Producción</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <h1>🏭 Dashboard de Producción</h1>
+        <div class="user-info">Operador: Turno Mañana</div>
+    </header>
+
+    <div class="container">
+        
+        <section class="left-column">
+            
+            <div class="card">
+                <div class="card-header">
+                    <h2>Nueva Orden</h2>
+                </div>
+                <form id="orderForm">
+                    <div class="form-group">
+                        <label for="product">Referencia / Producto</label>
+                        <input type="text" id="product" placeholder="Ej: Pieza A-100">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="quantity">Cantidad a fabricar</label>
+                        <input type="number" id="quantity" placeholder="0">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="machine-select">Asignar a Máquina</label>
+                        <select id="machine-select">
+                            <option value="cnc1">Fresadora CNC 01</option>
+                            <option value="cnc2">Torno CNC 02</option>
+                            <option value="laser">Cortadora Láser</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group file-input-group">
+                        <label for="attachment">Plano Técnico (PDF/DXF)</label>
+                        <input type="file" id="attachment" accept=".pdf,.dxf,.png,.jpg">
+                    </div>
+
+                    <button type="button" class="btn-submit" onclick="alert('Orden creada con éxito (Simulación)')">
+                        Crear Orden
+                    </button>
+                </form>
+            </div>
+
+            <div class="card">
+                <h3>Últimas Órdenes</h3>
+                <ul class="recent-orders">
+                    <li>
+                        <span class="order-id">#ORD-550</span>
+                        <span class="order-status">En Cola</span>
+                    </li>
+                    <li>
+                        <span class="order-id">#ORD-549</span>
+                        <span class="order-status processing">En Proceso</span>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="right-column">
+            
+            <div class="card">
+                <h2>Estado de Máquinas</h2>
+                <div class="machines-grid">
+                    
+                    <div class="machine-card">
+                        <div class="machine-header">
+                            <span class="machine-name">Fresadora 01</span>
+                            <span class="badge status-running">Operativa</span>
+                        </div>
+                        <div class="machine-details">
+                            <p>Ref: Engranaje B2</p>
+                            <div class="progress-container">
+                                <div class="progress-bar" style="width: 75%;"></div>
+                            </div>
+                            <small>75% Completado</small>
+                        </div>
+                    </div>
+
+                    <div class="machine-card">
+                        <div class="machine-header">
+                            <span class="machine-name">Torno 02</span>
+                            <span class="badge status-stopped">Detenida</span>
+                        </div>
+                        <div class="machine-details">
+                            <p>Error: Calibración</p>
+                            <div class="progress-container">
+                                <div class="progress-bar error" style="width: 30%;"></div>
+                            </div>
+                            <small>Detenido al 30%</small>
+                        </div>
+                    </div>
+
+                    <div class="machine-card">
+                        <div class="machine-header">
+                            <span class="machine-name">Cortadora Láser</span>
+                            <span class="badge status-maintenance">Mantenimiento</span>
+                        </div>
+                        <div class="machine-details">
+                            <p>Técnico asignado</p>
+                            <div class="progress-container">
+                                <div class="progress-bar" style="width: 0%;"></div>
+                            </div>
+                            <small>Inactivo</small>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="card stat-card">
+                    <div class="stat-number">1,240</div>
+                    <div class="stat-label">Piezas Hoy</div>
+                </div>
+                <div class="card stat-card">
+                    <div class="stat-number success">92%</div>
+                    <div class="stat-label">Eficiencia (OEE)</div>
+                </div>
+                <div class="card stat-card">
+                    <div class="stat-number danger">2</div>
+                    <div class="stat-label">Alertas</div>
+                </div>
+            </div>
+
+        </section>
+    </div>
+
+</body>
+</html>
