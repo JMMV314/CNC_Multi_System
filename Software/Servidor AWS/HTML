@@ -3,138 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panel de Producción</title>
+    <title>Panel IoT Producción</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header class="main-header">
-        <h1>🏭 Dashboard de Producción</h1>
-        <div class="user-info">Operador: Turno Mañana</div>
+        <h1>🏭 Dashboard IoT</h1>
+        <div class="user-info">Conexión: Raspberry Pi 📡</div>
     </header>
 
     <div class="container">
-        
         <section class="left-column">
-            
             <div class="card">
-                <div class="card-header">
-                    <h2>Nueva Orden</h2>
-                </div>
+                <div class="card-header"><h2>Nueva Orden</h2></div>
                 <form id="orderForm">
                     <div class="form-group">
-                        <label for="product">Referencia / Producto</label>
+                        <label>Referencia</label>
                         <input type="text" id="product" placeholder="Ej: Pieza A-100">
                     </div>
-                    
                     <div class="form-group">
-                        <label for="quantity">Cantidad a fabricar</label>
+                        <label>Cantidad</label>
                         <input type="number" id="quantity" placeholder="0">
                     </div>
-
                     <div class="form-group">
-                        <label for="machine-select">Asignar a Máquina</label>
+                        <label>Máquina</label>
                         <select id="machine-select">
                             <option value="cnc1">Fresadora CNC 01</option>
                             <option value="cnc2">Torno CNC 02</option>
                             <option value="laser">Cortadora Láser</option>
                         </select>
                     </div>
-
-                    <div class="form-group file-input-group">
-                        <label for="attachment">Plano Técnico (PDF/DXF)</label>
-                        <input type="file" id="attachment" accept=".pdf,.dxf,.png,.jpg">
+                    <div class="form-group file-input-group" style="margin-top: 15px;">
+                        <label>Plano (Max 5MB)</label>
+                        <input type="file" id="attachment">
                     </div>
-
-                    <button type="button" class="btn-submit" onclick="alert('Orden creada con éxito (Simulación)')">
-                        Crear Orden
-                    </button>
+                    <button type="button" class="btn-submit" onclick="crearOrden()" style="margin-top: 15px;">Crear Orden</button>
                 </form>
             </div>
 
             <div class="card">
                 <h3>Últimas Órdenes</h3>
-                <ul class="recent-orders">
-                    <li>
-                        <span class="order-id">#ORD-550</span>
-                        <span class="order-status">En Cola</span>
-                    </li>
-                    <li>
-                        <span class="order-id">#ORD-549</span>
-                        <span class="order-status processing">En Proceso</span>
-                    </li>
+                <ul class="recent-orders" id="lista-ordenes">
+                    <li>Cargando...</li>
                 </ul>
             </div>
         </section>
 
         <section class="right-column">
-            
             <div class="card">
-                <h2>Estado de Máquinas</h2>
-                <div class="machines-grid">
-                    
-                    <div class="machine-card">
-                        <div class="machine-header">
-                            <span class="machine-name">Fresadora 01</span>
-                            <span class="badge status-running">Operativa</span>
-                        </div>
-                        <div class="machine-details">
-                            <p>Ref: Engranaje B2</p>
-                            <div class="progress-container">
-                                <div class="progress-bar" style="width: 75%;"></div>
-                            </div>
-                            <small>75% Completado</small>
-                        </div>
-                    </div>
-
-                    <div class="machine-card">
-                        <div class="machine-header">
-                            <span class="machine-name">Torno 02</span>
-                            <span class="badge status-stopped">Detenida</span>
-                        </div>
-                        <div class="machine-details">
-                            <p>Error: Calibración</p>
-                            <div class="progress-container">
-                                <div class="progress-bar error" style="width: 30%;"></div>
-                            </div>
-                            <small>Detenido al 30%</small>
-                        </div>
-                    </div>
-
-                    <div class="machine-card">
-                        <div class="machine-header">
-                            <span class="machine-name">Cortadora Láser</span>
-                            <span class="badge status-maintenance">Mantenimiento</span>
-                        </div>
-                        <div class="machine-details">
-                            <p>Técnico asignado</p>
-                            <div class="progress-container">
-                                <div class="progress-bar" style="width: 0%;"></div>
-                            </div>
-                            <small>Inactivo</small>
-                        </div>
-                    </div>
-
+                <h2>Estado de Máquinas (Tiempo Real)</h2>
+                <div class="machines-grid" id="grid-maquinas">
+                    <p>Esperando señal...</p>
                 </div>
             </div>
-
-            <div class="stats-grid">
-                <div class="card stat-card">
-                    <div class="stat-number">1,240</div>
-                    <div class="stat-label">Piezas Hoy</div>
-                </div>
-                <div class="card stat-card">
-                    <div class="stat-number success">92%</div>
-                    <div class="stat-label">Eficiencia (OEE)</div>
-                </div>
-                <div class="card stat-card">
-                    <div class="stat-number danger">2</div>
-                    <div class="stat-label">Alertas</div>
-                </div>
-            </div>
-
         </section>
     </div>
 
+    <script>
+        // --- LOGICA DE MÁQUINAS (IOT) ---
+        async function actualizarMaquinas() {
+            try {
+                const res = await fetch('/api/maquinas');
+                const maquinas = await res.json();
+                const grid = document.getElementById('grid-maquinas');
+                grid.innerHTML = ''; // Limpiar grid
+
+                maquinas.forEach(m => {
+                    // Definir color según estado
+                    let claseEstado = 'status-running'; // Verde por defecto
+                    let claseBarra = '';
+                    if(m.estado === 'stopped') { claseEstado = 'status-stopped'; claseBarra = 'error'; }
+                    if(m.estado === 'maintenance') { claseEstado = 'status-maintenance'; }
+
+                    const card = document.createElement('div');
+                    card.className = 'machine-card';
+                    card.innerHTML = `
+                        <div class="machine-header">
+                            <span class="machine-name">${m.nombre}</span>
+                            <span class="badge ${claseEstado}">${m.estado.toUpperCase()}</span>
+                        </div>
+                        <div class="machine-details">
+                            <p>${m.mensaje}</p>
+                            <div class="progress-container">
+                                <div class="progress-bar ${claseBarra}" style="width: ${m.progreso}%;"></div>
+                            </div>
+                            <small>${m.progreso}% Completado</small>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+            } catch (e) { console.error("Error conectando máquinas", e); }
+        }
+
+        // --- LOGICA DE ORDENES ---
+        async function cargarLista() {
+            try {
+                const res = await fetch('/api/ordenes');
+                const ordenes = await res.json();
+                const lista = document.getElementById('lista-ordenes');
+                lista.innerHTML = ''; 
+                ordenes.forEach(orden => {
+                    const clip = orden.archivo_nombre ? '📎 ' + orden.archivo_nombre : '';
+                    const item = document.createElement('li');
+                    item.innerHTML = `
+                        <span class="order-id">#${orden.id}</span>
+                        <div><strong>${orden.producto}</strong> <br> <small>${clip}</small></div>`;
+                    lista.appendChild(item);
+                });
+            } catch (error) { console.error(error); }
+        }
+
+        async function crearOrden() {
+            const formData = new FormData();
+            formData.append('producto', document.getElementById('product').value);
+            formData.append('cantidad', document.getElementById('quantity').value);
+            formData.append('maquina', document.getElementById('machine-select').value);
+            const file = document.getElementById('attachment').files[0];
+            if(file) formData.append('adjunto', file);
+
+            await fetch('/api/orden', { method: 'POST', body: formData });
+            alert("✅ Orden Guardada");
+            document.getElementById('orderForm').reset();
+            cargarLista();
+        }
+
+        // INICIAR TODO
+        cargarLista();
+        actualizarMaquinas(); 
+        
+        // ¡MAGIA! Consultar el estado cada 2 segundos automáticamente
+        setInterval(actualizarMaquinas, 2000);
+    </script>
 </body>
 </html>
