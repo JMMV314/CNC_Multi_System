@@ -1,0 +1,71 @@
+const express = require('express');
+const mysql = require('mysql2');
+const cors = require('cors');
+const multer = require('multer');
+const app = express();
+
+app.use(express.json());
+app.use(cors());
+app.use(express.static('.'));
+
+// Configuración de Archivos
+const upload = multer({ 
+    storage: multer.memoryStorage(),
+    limits: { fileSize: 5 * 1024 * 1024 } 
+});
+
+const db = mysql.createConnection({
+    host: 'localhost',
+    user: 'carolina',
+    password: 'produccion2024',
+    database: 'dashboard_db'
+});
+
+// --- RUTAS DE ÓRDENES (Las que ya tenías) ---
+app.post('/api/orden', upload.single('adjunto'), (req, res) => {
+    const { producto, cantidad, maquina } = req.body;
+    const archivoNombre = req.file ? req.file.originalname : null;
+    const archivoData = req.file ? req.file.buffer : null;
+    const sql = 'INSERT INTO ordenes (producto, cantidad, maquina, archivo_nombre, archivo_data) VALUES (?, ?, ?, ?, ?)';
+    db.query(sql, [producto, cantidad, maquina, archivoNombre, archivoData], (err, result) => {
+        if (err) return res.status(500).json({ error: err.message });
+        res.json({ id: result.insertId, message: 'Guardado' });
+    });
+});
+
+app.get('/api/ordenes', (req, res) => {
+    const sql = 'SELECT id, producto, cantidad, maquina, archivo_nombre FROM ordenes ORDER BY id DESC LIMIT 5';
+    db.query(sql, (err, results) => {
+        if (err) return res.status(500).json({ error: err.message });
+        res.json(results);
+    });
+});
+
+// --- NUEVAS RUTAS PARA RASPBERRY PI (MÁQUINAS) ---
+
+// 1. Recibir actualización desde la Raspberry Pi
+// Espera un JSON así: { "id": "cnc1", "estado": "stopped", "progreso": 50, "mensaje": "Fallo motor" }
+app.post('/api/maquina/update', (req, res) => {
+    const { id, estado, progreso, mensaje } = req.body;
+    
+    const sql = 'UPDATE maquinas SET estado=?, progreso=?, mensaje=? WHERE id=?';
+    
+    db.query(sql, [estado, progreso, mensaje, id], (err, result) => {
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: 'Error actualizando máquina' });
+        }
+        console.log(`📡 Recibido dato de Raspberry: ${id} -> ${estado}`);
+        res.json({ message: 'Estado actualizado correctamente' });
+    });
+});
+
+// 2. Enviar estado actual a la Página Web
+app.get('/api/maquinas', (req, res) => {
+    db.query('SELECT * FROM maquinas', (err, results) => {
+        if (err) return res.status(500).json({ error: err.message });
+        res.json(results);
+    });
+});
+
+app.listen(3000, () => console.log('Servidor listo para recibir datos IoT'));
