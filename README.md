@@ -1,52 +1,112 @@
-# Control Centralizado de Ruteadoras CNC con ESP32 y Raspberry Pi
+Sistema SCADA Distribuido — Control de Celdas CNC
+Sistema de monitoreo y control centralizado para múltiples máquinas CNC, diseñado para eliminar la dependencia de un PC dedicado por máquina y permitir la gestión remota del proceso de fabricación desde una interfaz web única.
+Desarrollado como proyecto académico en el marco de la asignatura Embedded Linux System Programming — Universidad Nacional de Colombia, Sede Manizales (2025-2S).
 
-Este proyecto busca **automatizar y centralizar el control de múltiples ruteadoras CNC** utilizadas para la producción de PCB.  
-Cada ruteadora está controlada por un **ESP32**, que se comunica mediante **Wi-Fi** con una **Raspberry Pi**, la cual actúa como **nodo maestro y gateway hacia un servidor en la nube (AWS)**.
+Arquitectura
+[Administrador remoto]
+        |
+        | HTTPS / REST
+        v
+[AWS EC2 — API REST + MySQL]
+   Órdenes de producción · Archivos G-code (BLOB) · Historial
+        |
+        | HTTPS / REST (polling)
+        v
+[Raspberry Pi 3 — Gateway HMI]
+   Cola de trabajos · Parser G-code · Dashboard web · Despacho
+        |           |           |
+        | WebSocket | WebSocket | WebSocket
+        v           v           v
+   [ESP32 #1]  [ESP32 #2]  [ESP32 #N]
+   FluidNC     FluidNC     FluidNC
+   CNC · WiFi  CNC · WiFi  CNC · WiFi
 
----
+Componentes del sistema
+CapaHardware / PlataformaRolNodo edgeESP32 + FluidNC (PCB propio)Ejecución G-code en tiempo realGatewayRaspberry Pi 3 — Debian LinuxCoordinación, cola de trabajos, HMIBackendAWS EC2 — Node.js + MySQLPersistencia, acceso remotoFrontendSPA web (servida desde EC2)Panel de control y monitoreo
 
-## Descripción general
+Protocolos de comunicación
+EnlaceProtocoloJustificaciónGateway ↔ ESP32WebSocket (TCP persistente)Nativo en FluidNC, bidireccional, baja latencia LANGateway ↔ AWSHTTPS / RESTFlujo asíncrono, cifrado TLS, sin infraestructura adicionalArchivos G-codeREST + BLOB en MySQLAtomicidad con la orden, sin límite de tamaño, trazabilidad integrada
 
-Actualmente, el control de cada ruteadora CNC se realiza de forma independiente, ya sea:
-- Mediante una **tarjeta SD** con el archivo G-code, o
-- A través de una **conexión serial directa** desde un PC.
+Estructura del repositorio
+/
+├── gateway/
+│   ├── src/
+│   │   ├── network.c       # Cliente WebSocket hacia nodos ESP32
+│   │   ├── parser.c        # Validación y filtrado de G-code
+│   │   ├── scheduler.c     # Cola de trabajos y despacho
+│   │   └── api_client.c    # Cliente HTTP hacia AWS
+│   └── Makefile
+├── backend/
+│   ├── src/
+│   │   ├── routes/         # Endpoints REST
+│   │   └── db/             # Modelos MySQL
+│   └── package.json
+├── frontend/
+│   └── src/                # Dashboard web (SPA)
+├── hardware/
+│   ├── schematic/
+│   ├── pcb/
+│   ├── gerbers/
+│   └── bom/
+├── firmware/
+│   └── config.yaml         # Configuración FluidNC
+├── docs/
+│   ├── sistema_scada.docx  # Documento del sistema completo
+│   └── diseno_pcb_cnc.docx # Documento de diseño electrónico
+└── README.md
 
-Esto requiere intervención humana y múltiples equipos, aumentando el costo y el riesgo de error.
+API REST — endpoints principales
+MétodoEndpointDescripciónGET/api/ordenesLista órdenes por máquina destinoPOST/api/ordenesCrea orden con archivo G-code adjuntoGET/api/ordenes/:id/archivoDescarga archivo G-codePOST/api/eventosRegistra evento de máquinaGET/api/maquinasEstado actual de todos los nodos
 
-El presente sistema busca eliminar esa dependencia, permitiendo que:
-- Una sola **Raspberry Pi** gestione todas las máquinas,
-- Se controle la producción mediante una **interfaz táctil**, y
-- Se registren automáticamente los tiempos de operación y estados.
+Estados de máquina
+En espera  ──►  En operación  ──►  Finalizado
+                     |
+                     ├──►  Pausada  ──►  En operación
+                     └──►  Error
+                     
+Fuera de línea  (sin conexión WebSocket)
 
----
+Requisitos del entorno
+Gateway (Raspberry Pi)
 
-## Componentes del sistema
+Debian Linux
+GCC (build de módulos en C)
+Acceso WiFi a la red local de las máquinas
+Acceso a internet para sincronización con AWS
 
-### Hardware
-- **Raspberry Pi 4B / 5** — Nodo maestro y gateway.
-- **ESP32-C6 (x10)** — Controladores locales de las ruteadoras.
-- **Ruteadoras CNC** — Equipos de producción.
-- **Red Wi-Fi local** — Comunicación entre Raspberry y ESP32.
-- **Servidor AWS (EC2 / IoT Core / S3)** — Almacenamiento y monitoreo remoto.
+Backend (AWS EC2)
 
-### Software
-- **Sistema operativo:** Raspberry Pi OS (Linux)
-- **Lenguajes:** Python (control y UI), C++ (firmware ESP32)
-- **Protocolo de comunicación:** MQTT / TCP sockets
-- **Base de datos local:** SQLite / JSON logs
-- **Interfaz:** Touchscreen local con dashboard
+Ubuntu 20.04
+Node.js 18+
+MySQL 8+
 
----
+Nodo CNC
 
-## ⚙️ Arquitectura del sistema
+ESP32 con FluidNC instalado
+Red WiFi compartida con el gateway
+Configuración en firmware/config.yaml
 
-```mermaid
-flowchart TD
-    A[Raspberry Pi (Main Control App)] -->|Wi-Fi| B1[ESP32 #1 - CNC Router 1]
-    A -->|Wi-Fi| B2[ESP32 #2 - CNC Router 2]
-    A -->|Wi-Fi| B3[ESP32 #3 - CNC Router 3]
-    A -->|AWS API| C[Cloud Server]
-    
-    B1 --> D1[CNC Router 1]
-    B2 --> D2[CNC Router 2]
-    B3 --> D3[CNC Router 3]
+
+Estado del proyecto
+Sistema SCADA
+
+ Arquitectura y protocolos definidos
+ Gateway — cliente WebSocket y despacho de G-code
+ Backend — API REST y persistencia MySQL
+ Frontend — dashboard web con monitoreo en tiempo real
+ Pruebas de integración end-to-end
+ Autenticación robusta de usuarios
+ Soporte multi-usuario con roles (operario / administrador)
+
+Hardware (nodo CNC)
+
+ Selección de plataforma y firmware
+ Requerimientos electrónicos y presupuesto de potencia
+ Asignación de pines y floorplan
+ Esquemático finalizado
+ Layout y fabricación del PCB
+ Validación en máquina real (PENDIENTE)
+
+
+Resultados de validación
+MétricaCriterioResultadoLatencia de estado< 1 s420–870 ms (promedio 580 ms) ✓Latencia de comando< 300 msCumplido ✓Transferencia G-codeSin pérdidaVerificado (31 KB, hash MD5) ✓Recuperación tras reinicioSin pérdida de colaVerificado ✓Incorporación de nuevo nodoSin modificar servidorVerificado ✓
